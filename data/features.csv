@@ -1,0 +1,7 @@
+feature_variable,feature_name,feature_description,feature_options
+singing_human,Synchronous Singing,two or more people singing the same melody and rhythm in unison,"0=absent, 1=present"
+chanting_human,Synchronous Chanting and Intoning,"two or more people vocalizing rhythmically, repetitively, and simultaneously with little or no rise and fall of the pitch of the voice","0=absent, 1=present"
+praying_human,Synchronous Praying,vocalized requests of thanks or praise to a deity or other object of worship in a rhythmic and repetitive manner by two or more people at the same time,"0=absent, 1=present"
+marching_human,Synchronous Marching,two or more people walking or proceeding in unison with a regular measured step,"0=absent, 1=present"
+dancing_human,Synchronous Dancing,"two or more people leaping, skipping, hopping, or gliding with measured steps and rhythmical movement of the body in unison","0=absent, 1=present"
+generic_mvmt_human,Synchronous Generic Movement,rhythmic and repetitious bodily movements other than marching and dancing by two or more people in unison,"0=absent, 1=present"
