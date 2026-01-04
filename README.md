@@ -11,5 +11,7 @@ All model inferences are stored in /all and /synchrony folders. _Note_. The manu
 # Run Experiment
 
 Run analysis_all.py and analysis_synchrony.py for all open-source models (requires HPC/GPU usage).
+
 For proprietary models, submit API requests (batch or otherwise).
+
 Run all Rscripts for statistical analyses.
