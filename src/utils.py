@@ -1,10 +1,11 @@
 models = {
-    "gpt-oss:20b": "gptoss20b",
     "gpt-oss:120b": "gptoss120b",
     "deepseek-v3.1:671b": "deepseekv31671b",
     "gpt5nano": "gpt5nano",
     "llama3:3b": "llama33b",
-    "qwen3": "qwen3"
+    "qwen3": "qwen3",
+    "claude45sonnet": "claude45sonnet",
+    "perplexity": "perplexity"
 }
 
 
