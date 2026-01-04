@@ -1,5 +1,4 @@
-# EthnoLLM
-_LLMs struggle with ethnographic text annotation_
+# LLMs struggle with ethnographic text annotation
 
 All python scripts used to handle data and model inferences are in /src. These may need to be moved to home directory to call the /data appropriately. Batch API calling to OpenAI, Anthropic, and Perplexity are omitted (though can be provided upon reasonable request). 
 
