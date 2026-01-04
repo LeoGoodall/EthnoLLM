@@ -8,8 +8,8 @@ Rscripts involve all statistical analyses used and results are stored in appropr
 
 All model inferences are stored in /all and /synchrony folders. _Note_. The manuscript distinguishes between the "Morphospace" and "synchrony" datasets. In the code, these are referred to as the "all" and "synchrony" folders. To be clear, "all" does not refer to Morphospace+synchrony, but just Morphospace dataset.
 
-To replicate these results:
+# Run Experiment
 
-Run analysis_all.py and analysis_synchrony.py for all models (GPU and HPC handling are omitted).
-Submit API requests (batch or otherwise)
-Run all Rscripts.
+Run analysis_all.py and analysis_synchrony.py for all open-source models (requires HPC/GPU usage).
+For proprietary models, submit API requests (batch or otherwise).
+Run all Rscripts for statistical analyses.
