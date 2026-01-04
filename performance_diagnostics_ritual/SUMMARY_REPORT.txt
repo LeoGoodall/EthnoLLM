@@ -1,0 +1,81 @@
+===========================================================================
+PERFORMANCE DIAGNOSTICS: SUMMARY REPORT
+===========================================================================
+
+DATASET OVERVIEW
+---------------------------------------------------------------------------
+Total observations (ritual-model-condition): 8221
+Unique rituals: 535
+Models evaluated: 6
+Conditions evaluated: 3
+Overall mean F1: 0.347
+Overall median F1: 0.343
+
+DESCRIPTIVE STATISTICS
+---------------------------------------------------------------------------
+F1 Score by Model:
+# A tibble: 6 × 5
+  model               n mean_f1 median_f1  sd_f1
+  <fct>           <int>   <dbl>     <dbl>  <dbl>
+1 gptoss120b       1605   0.421     0.425 0.132 
+2 deepseekv31671b  1501   0.424     0.428 0.148 
+3 gpt5nano         1070   0.375     0.374 0.119 
+4 llama33b         1605   0.198     0.185 0.0946
+5 claudesonnet45   1070   0.403     0.405 0.133 
+6 qwen3            1370   0.286     0.285 0.0985
+
+F1 Score by Condition:
+# A tibble: 3 × 5
+  condition        n mean_f1 median_f1 sd_f1
+  <fct>        <int>   <dbl>     <dbl> <dbl>
+1 baseline      3210   0.324     0.329 0.139
+2 mtp           3210   0.370     0.367 0.152
+3 ensemble_mtp  1801   0.348     0.333 0.160
+
+MODEL COMPARISON
+---------------------------------------------------------------------------
+Nested Model Comparison (Likelihood Ratio Tests):
+Data: performance_data_ritual
+Models:
+M0: f1_score ~ 1 + (1 | ritual_number)
+M1: f1_score ~ model + condition + model:condition + (1 | ritual_number)
+M2: f1_score ~ model + condition + model:condition + z_log_char_length + z_fog + z_mtld + region + z_year + (1 | ritual_number)
+M3: f1_score ~ model + condition + model:condition + z_log_char_length + z_fog + z_mtld + region + z_year + prop_binary + z_avg_feat_desc_length + (1 | ritual_number)
+   npar      AIC      BIC logLik -2*log(L)    Chisq Df Pr(>Chisq)    
+M0    3  -9940.8  -9919.8 4973.4   -9946.8                           
+M1   18 -16522.0 -16395.7 8279.0  -16558.0 6611.171 15  < 2.2e-16 ***
+M2   30 -16532.7 -16322.3 8296.4  -16592.7   34.733 12  0.0005164 ***
+M3   32 -16544.3 -16319.8 8304.2  -16608.3   15.598  2  0.0004102 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+AIC/BIC Comparison:
+               Model        AIC        BIC
+1      M0_RandomOnly  -9931.581  -9910.538
+2           M1_Model -16373.962 -16247.702
+3      M2_Model_Text -16296.491 -16086.057
+4 M3_Model_Text_Task -16299.725 -16075.262
+
+Variance Explained (R²):
+               Model R2_marginal R2_conditional
+1           M1_Model   0.3645940      0.7135507
+2      M2_Model_Text   0.3855719      0.7162448
+3 M3_Model_Text_Task   0.3946325      0.7163990
+
+VARIANCE DECOMPOSITION (Model M3)
+---------------------------------------------------------------------------
+                              source    variance percentage
+1           Between-ritual variation 0.007315398      53.2%
+2 Within-ritual variation (residual) 0.006447703      46.8%
+
+KEY FINDINGS
+---------------------------------------------------------------------------
+MODEL factors explain: 36.5% of variance (marginal R²)
+Adding TEXT factors increases to: 38.6% (gain: 2.1%)
+Adding TASK factors increases to: 39.5% (gain: 0.9%)
+
+Total variance explained by fixed + random effects: 71.6%
+
+===========================================================================
+Analysis complete. All outputs saved to: performance_diagnostics_ritual 
+===========================================================================

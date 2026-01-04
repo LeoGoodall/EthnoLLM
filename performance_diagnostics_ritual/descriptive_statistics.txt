@@ -1,0 +1,53 @@
+$overall
+# A tibble: 1 × 7
+  n_observations n_rituals n_models n_conditions overall_f1 median_f1 sd_f1
+           <int>     <int>    <int>        <int>      <dbl>     <dbl> <dbl>
+1           8221       535        6            3      0.347     0.343 0.150
+
+$by_model
+# A tibble: 6 × 5
+  model               n mean_f1 median_f1  sd_f1
+  <fct>           <int>   <dbl>     <dbl>  <dbl>
+1 gptoss120b       1605   0.421     0.425 0.132 
+2 deepseekv31671b  1501   0.424     0.428 0.148 
+3 gpt5nano         1070   0.375     0.374 0.119 
+4 llama33b         1605   0.198     0.185 0.0946
+5 claudesonnet45   1070   0.403     0.405 0.133 
+6 qwen3            1370   0.286     0.285 0.0985
+
+$by_condition
+# A tibble: 3 × 5
+  condition        n mean_f1 median_f1 sd_f1
+  <fct>        <int>   <dbl>     <dbl> <dbl>
+1 baseline      3210   0.324     0.329 0.139
+2 mtp           3210   0.370     0.367 0.152
+3 ensemble_mtp  1801   0.348     0.333 0.160
+
+$by_model_condition
+# A tibble: 16 × 6
+   model           condition        n mean_f1 median_f1  sd_f1
+   <fct>           <fct>        <int>   <dbl>     <dbl>  <dbl>
+ 1 gptoss120b      baseline       535   0.393     0.394 0.122 
+ 2 gptoss120b      mtp            535   0.434     0.447 0.136 
+ 3 gptoss120b      ensemble_mtp   535   0.437     0.440 0.133 
+ 4 deepseekv31671b baseline       535   0.394     0.398 0.128 
+ 5 deepseekv31671b mtp            535   0.435     0.441 0.157 
+ 6 deepseekv31671b ensemble_mtp   431   0.449     0.454 0.155 
+ 7 gpt5nano        baseline       535   0.348     0.348 0.105 
+ 8 gpt5nano        mtp            535   0.402     0.406 0.127 
+ 9 llama33b        baseline       535   0.148     0.142 0.0599
+10 llama33b        mtp            535   0.226     0.221 0.102 
+11 llama33b        ensemble_mtp   535   0.220     0.217 0.0953
+12 claudesonnet45  baseline       535   0.370     0.372 0.124 
+13 claudesonnet45  mtp            535   0.436     0.447 0.133 
+14 qwen3           baseline       535   0.294     0.289 0.102 
+15 qwen3           mtp            535   0.285     0.286 0.0971
+16 qwen3           ensemble_mtp   300   0.272     0.274 0.0928
+
+$continuous_vars
+# A tibble: 1 × 8
+  char_length_median char_length_iqr fog_mean fog_sd mtld_mean mtld_sd
+               <dbl>           <dbl>    <dbl>  <dbl>     <dbl>   <dbl>
+1               3645            6840     12.0   2.14      65.8    16.7
+# ℹ 2 more variables: year_median <dbl>, year_range <chr>
+
