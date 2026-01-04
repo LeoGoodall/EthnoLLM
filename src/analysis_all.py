@@ -526,8 +526,9 @@ def mtp_main(model, condition):
     print(f"Wrote {out_name}")
     return results
 
-
 if __name__ == "__main__":
-    for model in ["gpt-oss:120b"]:
-        for condition in ["ensemble"]:
-            main(model, condition)
+    for model in ["gpt-oss:120b", "deepseek-v3.1:671b", "llama3:3b", "qwen3"]:
+        main(model, "single")
+        mtp_main(model, "single")
+        mtp_main(model, "ensemble")
+    # Need to run API calls for proprietary models (GPT5-nano, Claude Sonnet 4.5, Perplexity)
