@@ -1,0 +1,9 @@
+metric,value
+"Mean LLM-LLM kappa (all pairs, all features)",0.233
+Mean Human-Human kappa (all features),0.573
+LLM-LLM vs Human-Human difference,-0.340
+Number of LLM pairs,21
+Number of features,6
+Features where LLM-LLM > Human-Human,0
+Most agreeing LLM pair,GPT-OSS 120B & GPT-5 Nano (κ = 0.600)
+Least agreeing LLM pair,Llama 3.2 Instruct (3B) & Perplexity Sonar (κ = -0.006)

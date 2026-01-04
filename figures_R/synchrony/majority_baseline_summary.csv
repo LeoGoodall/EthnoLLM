@@ -1,0 +1,7 @@
+Metric,Value
+Features where LLM beats baseline,6
+Total features,6
+Proportion beating baseline,1
+Mean majority-class baseline F1,0
+Mean best LLM F1,0.599
+Mean improvement over baseline,0.599

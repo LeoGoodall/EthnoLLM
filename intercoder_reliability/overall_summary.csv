@@ -1,0 +1,8 @@
+metric,value
+Mean Cohen's Kappa,0.5730841216655848
+Median Cohen's Kappa,0.5558924983793968
+Mean Raw Agreement,0.8854658849071042
+Mean Positive Agreement,0.6413273893991069
+Mean Negative Agreement,0.9273720661494015
+Total Disagreements,407
+Mean Disagreement Rate,0.11453411509289577

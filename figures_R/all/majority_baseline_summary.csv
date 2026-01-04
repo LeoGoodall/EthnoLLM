@@ -1,0 +1,7 @@
+Metric,Value
+Features where LLM beats baseline,109
+Total features,111
+Proportion beating baseline,0.982
+Mean majority-class baseline F1,0.019
+Mean best LLM F1,0.472
+Mean improvement over baseline,0.453

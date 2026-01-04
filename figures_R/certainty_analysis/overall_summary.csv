@@ -1,0 +1,10 @@
+metric,value
+overall_r,0.11989648660969884
+overall_r_lower,0.11572338620766237
+overall_r_upper,0.12406535446484186
+overall_p,0
+n_predictions,214529
+mean_certainty,91.9368010851694
+mean_accuracy,NA
+odds_ratio_per_10pct,1.1807849141955615
+logit_p,0

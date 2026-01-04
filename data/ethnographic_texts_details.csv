@@ -1,0 +1,671 @@
+No.,ritual_number,author,date,ethnography_title,culture,ritual_name
+1,Ritual1,C. Wissler,1918,The Sun Dance of the Blackfoot Indians,Blackfoot,Vow
+2,Ritual2,C. Wissler,1918,The Sun Dance of the Blackfoot Indians,Blackfoot,Ceremony of the tongues
+3,Ritual3,C. Wissler,1918,The Sun Dance of the Blackfoot Indians,Blackfoot,Hundred willow sweat house
+4,Ritual4,C. Wissler,1918,The Sun Dance of the Blackfoot Indians,Blackfoot,
+5,Ritual5,C. Wissler,1918,The Sun Dance of the Blackfoot Indians,Blackfoot,Cutting of sun pole
+6,Ritual6,C. Wissler,1918,The Sun Dance of the Blackfoot Indians,Blackfoot,raising sun pole
+7,Ritual7,C. Wissler,1918,The Sun Dance of the Blackfoot Indians,Blackfoot,weather dance
+8,Ritual8,C. Wissler,1918,The Sun Dance of the Blackfoot Indians,Blackfoot,sun god ceremony
+9,Ritual9,M. Mountain Horse,1979,My people the Bloods,Blackfoot,making of a brave? (assumed)
+10,Ritual10,E. Cerulli,1964,The Somali Tribe,Somali,ritual of assembly
+11,Ritual11,B. Helander,1997,The slaughtered camel: coping with fictitious descent among the Hubeer of southern Somalia,Somali,"tuf, healing ritual"
+12,Ritual12,C. A. Clark,1932,Religions of old Korea,Korea,ordination of buddhist priest
+13,Ritual13,C. A. Clark,1932,Religions of old Korea,Korea,public worship and sermon
+14,Ritual14,C. A. Clark,1932,Religions of old Korea,Korea,private worship
+15,Ritual15,C. A. Clark,1932,Religions of old Korea,Korea,Yum Chun Yum Sa
+16,Ritual16a,C. A. Clark,1932,Religions of old Korea,Korea,Healing koot/kut
+17,Ritual16b,L. Kendall,1985,Housewives and other restless spirits: women in Korean ritual life,Korea,Healing koot/kut
+18,Ritual17,C. A. Clark,1932,Religions of old Korea,Korea,"The Family Shamas, the Chunchei or Sanchet"
+19,Ritual18,L. Kendall,1985,"Shamans, housewives and other restless spirits: women in Korean ritual life",Korea,Chesa (?)
+20,Ritual19,K.-g. Yi,1984,Family and religion in contemporary Korea,Korea,Ki-je
+21,Ritual20,E. E. B. Landis,1896,Mourning and burial rites of Korea,Korea,Funerary proceedings
+22,Ritual21,W. Jochelson,1933,The Yakut,Yukut,Healing ritual
+23,Ritual22,W. Jochelson,1906,Kumiss festivals of the Yakut and the decoration of Kumiss vessels,Yukut,"Ayy ysyaxa (kumiss spring festival in honor of the ""creators"")"
+24,Ritual23a,W. G. W. G. Archer,1974,"The hill of flutes: life, love, and poetry in tribal India : a portrait of the Santals",Santal,"Ritual cleaning of the grove, Baha festival"
+25,Ritual23b,W. J. Culshaw,1949,Tribal heritage: a study of the Santals,Santal,"Ritual cleaning of the grove, Baha festival"
+26,Ritual24,W. J. Culshaw,1949,Tribal heritage: a study of the Santals,Santal,Naming ceremony
+27,Ritual25a,W. J. Culshaw,1949,Tribal heritage: a study of the Santals,Santal,Caco char (causal initiation/purification ceremony)
+28,Ritual25b,C. Mukherjea,1962,The Santals,Santal,Caco char (causal initiation/purification ceremony)
+29,Ritual26,P. C. Biswas,1956,Santals of the Santal Parganas,Santal,Dihri
+30,Ritual27,W. G. W. G. Archer,1974,"The hill of flutes: life, love, and poetry in tribal India : a portrait of the Santals",Santal,Telnahan
+31,Ritual27,C. Mukherjea,1962,The Santals,Santal,Telnahan
+32,Ritual28a,W. G. W. G. Archer,1974,"The hill of flutes: life, love, and poetry in tribal India : a portrait of the Santals",Santal,Jiling Dahar
+33,Ritual28b,C. Mukherjea,1962,The Santals,Santal,Jiling Dahar
+34,Ritual29,W. G. W. G. Archer,1974,"The hill of flutes: life, love, and poetry in tribal India : a portrait of the Santals",Santal,Bhandan or Final Purification
+35,Ritual30,W. J. Culshaw,1949,Tribal heritage: a study of the Santals,Santal,Marriage Ceremony
+36,Ritual31,R. M. French,1942,Serbian church life,Serbs,Burial
+37,Ritual32,R. M. French,1942,Serbian church life,Serbs,"Funeral, banquet for the soul"
+38,Ritual33,R. M. French,1942,Serbian church life,Serbs,"""Buying back from the grave"" ritual"
+39,Ritual34,R. M. French,1942,Serbian church life,Serbs,Slava ceremony
+40,Ritual35,R. M. French,1942,Serbian church life,Serbs,Blessing of the Water
+41,Ritual36,W. L. Merrill,1988,Rarámuri souls: knowledge and social process in northern Mexico,Tarahumara,Death ritual (first formal offerings)
+42,Ritual37,W. L. Merrill,1988,Rarámuri souls: knowledge and social process in northern Mexico,Tarahumara,"Final death ceremony (""When we write with ashes"")"
+43,Ritual38,J. G. Kennedy,1978,Tarahumara of the Sierra Madre: beer,Tarahumara,Curing ritual including yumari dance
+44,Ritual39,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Peyote ceremony
+45,Ritual40,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Church Fiesta of Guadalupe
+46,Ritual41,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Holy Week Fiesta
+47,Ritual42,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Matachine Dance
+48,Ritual43,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Native Fiestas
+49,Ritual44,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Curing Fiestas
+50,Ritual45,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Rain Fiesta
+51,Ritual46,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Birth Curing Fiesta
+52,Ritual47,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Yumari
+53,Ritual48,W. C. Bennett,1935,The Tarahumara: an Indian tribe of northern Mexico,Tarahumara,Dutuburi Dance
+54,Ritual49,F. G. Vallee,1955,Burial and mourning customs in a Hebridean community,Highland Scots,The Wake
+55,Ritual50,F. G. Vallee,1955,Burial and mourning customs in a Hebridean community,Highland Scots,Lifting and Procession to Chapel
+56,Ritual51,F. G. Vallee,1955,Burial and mourning customs in a Hebridean community,Highland Scots,Funeral and Burial
+57,Ritual52,K. MacKinnon,1977,"Language, education and social processes in a Gaelic community",Highland Scots,Là na Ceísd (The Day of the Question)
+58,Ritual53,J. Berque,1955,Social structures of the High Atlas,Shulh,"Feast of Yulyuz to the Saint, Lalla Aziza"
+59,Ritual54,W. A. Cook,1907,The Bororó Indians of Matto Grosso,Bororo,Naming Ceremony
+60,Ritual55,W. A. Cook,1907,The Bororó Indians of Matto Grosso,Bororo,-
+61,Ritual56,A. Colbacchini,1942,The eastern Bororo Orarimogodogue of the eastern plateau of Mato Grosso,Bororo,Funerary Proceedings: Death and Funerals
+62,Ritual57,A. Colbacchini,1942,The eastern Bororo Orarimogodogue of the eastern plateau of Mato Grosso,Bororo,"Funerary Proceedings: When a ""Mori"" Ounce is Killed"
+63,Ritual58,A. Colbacchini,1942,The eastern Bororo Orarimogodogue of the eastern plateau of Mato Grosso,Bororo,Funerary Proceedings: The Mori of the Spotted Ounce
+64,Ritual59,A. Colbacchini,1942,The eastern Bororo Orarimogodogue of the eastern plateau of Mato Grosso,Bororo,Funerary Proceedings: The Marrido
+65,Ritual60,A. Colbacchini,1942,The eastern Bororo Orarimogodogue of the eastern plateau of Mato Grosso,Bororo,Funerary Proceedings: Exhumation of the Cadaver and Funeral Rites
+66,Ritual61,A. Colbacchini,1942,The eastern Bororo Orarimogodogue of the eastern plateau of Mato Grosso,Bororo,Funerary Proceedings: Burial in the Water
+67,Ritual62,F. J. Mahony,1971,A Trukese theory of medicine,Chuuk,Flaming Bones
+68,Ritual63,A. Krämer,,Truk,Chuuk,
+69,Ritual64,E. E. E. E.-. Evans-Pritchard,,Witchcraft oracles and magic among the Azande,Azande,
+70,Ritual65,E. E. E. E.-. Evans-Pritchard,1936,Zande theology,Azande,Maziga Ceremony
+71,Ritual66,H. W. Debrunner,1961,Witchcraft in Ghana: a study on the belief in destructive witches and its effect on the Akan tribes,Akan,Healing Ritual
+72,Ritual67,H. W. Debrunner,1961,Witchcraft in Ghana: a study on the belief in destructive witches and its effect on the Akan tribes,Akan,Exorcism
+73,Ritual68,H. W. Debrunner,1961,Witchcraft in Ghana: a study on the belief in destructive witches and its effect on the Akan tribes,Akan,Exorcism of Witch Spirits
+74,Ritual69a,D. M. Warren,,The Akan of Ghana: an overview of the ethnographic literature,Akan,Apo festival
+75,Ritual69b,D. M. Warren,,The Techiman-Bobo of Ghana: an ethnography of an Akan society,Akan,Apo festival
+76,Ritual70a,D. M. Warren,,The Akan of Ghana: an overview of the ethnographic literature,Akan,Bono Festival; the Yam Festival
+77,Ritual70b,D. M. Warren,,The Techiman-Bobo of Ghana: an ethnography of an Akan society,Akan,Bono Festival; the Yam Festival
+78,Ritual71a,D. M. Warren,,The Akan of Ghana: an overview of the ethnographic literature,Akan,Monocot Ceremony
+79,Ritual71b,D. M. Warren,,The Techiman-Bobo of Ghana: an ethnography of an Akan society,Akan,Monocot Ceremony
+80,Ritual72,D. M. Warren,1975,The Akan of Ghana: an overview of the ethnographic literature,Akan,The Last Monokuo Ceremony of the Year
+81,Ritual73,H. J. Tschopik,1946,The Aymara,Aymara,Rainmaking Ritual
+82,Ritual74,H. J. Tschopik,1946,The Aymara,Aymara,Coqela Ritual
+83,Ritual75,H. J. Tschopik,1946,The Aymara,Aymara,Alasita
+84,Ritual76,H. J. Tschopik,1946,The Aymara,Aymara,Wilanca (House Dedication Rite)
+85,Ritual77,H. J. Tschopik,1946,The Aymara,Aymara,Mesa Loqaña (Generaly Propitiatory Rite)
+86,Ritual78,H. J. Tschopik,1946,The Aymara,Aymara,Uiwataki Mesa Loqaña (Animal Increase Rite)
+87,Ritual79,H. J. Tschopik,1946,The Aymara,Aymara,Uiwa Laraña (Animal Making)
+88,Ritual80,H. J. Tschopik,1946,The Aymara,Aymara,First Fruit Ritual
+89,Ritual81,H. J. Tschopik,1946,The Aymara,Aymara,Divinatory Agricultural Rite
+90,Ritual82,H. J. Tschopik,1946,The Aymara,Aymara,Compadre Ritual
+91,Ritual83,H. J. Tschopik,1946,The Aymara,Aymara,Troka Ritual
+92,Ritual84,W. La Barre,1948,The Aymara Indians of the Lake Titicaca Plateau,Aymara,Linka Ritual (Link[unknown]a)
+93,Ritual85,J. T. Cole,1969,The human soul in the Aymara culture of Pumasara: an ethnographic study in the light of George Herbert Mead and Martin Buber,Aymara,
+94,Ritual86,W. La Barre,1948,The Aymara Indians of the Lake Titicaca Plateau,Aymara,
+95,Ritual87,J. C. Nash,1970,In the eyes of the ancestors: belief and behavior in a Mayan community,Tzeltal,Water Ceremony
+96,Ritual88,J. C. Nash,1970,In the eyes of the ancestors: belief and behavior in a Mayan community,Tzeltal,
+97,Ritual89,J. C. Nash,1970,In the eyes of the ancestors: belief and behavior in a Mayan community,Tzeltal,
+98,Ritual90,J. C. Nash,1970,In the eyes of the ancestors: belief and behavior in a Mayan community,Tzeltal,"Baptism (""Throw the Water"")"
+99,Ritual91,J. C. Nash,1970,In the eyes of the ancestors: belief and behavior in a Mayan community,Tzeltal,Baptism
+100,Ritual92,A. Villa Rojas,1969,The Tzeltal,Tzeltal,Fiesta for the Patron Saint
+101,Ritual93,A. Villa Rojas,1969,The Tzeltal,Tzeltal,Talking Saints
+102,Ritual94,D. Metzger,1964,Interpretations of drinking performances in Aguacatenango,Tzeltal,Ceremonial Drinking
+103,Ritual98,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,The Blessing of the Girls (ukupala amate)
+104,Ritual99,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,The Hierarchy of the Elders
+105,Ritual100,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,The Enclosure of the Girls (ukusakila banacisungu)
+106,Ritual101,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,The First Woodland Ceremony
+107,Ritual102,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,Test of Maturity
+108,Ritual103,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,Ritual Lighting (?)
+109,Ritual104,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,The Teasing of the Girls
+110,Ritual105,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,Eleventh Day
+111,Ritual106,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,Fourteenth Day
+112,Ritual107,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,Seventeeth Day
+113,Ritual108,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,"The Planting of the mbusa (ukushimpe mbusa) and the Final Jump
+"
+114,Ritual109,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,Rites of the Last Night
+115,Ritual110,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,The Cocks of the Dawn
+116,Ritual111,A. I. Richards,1956,CHISUNGU: a girls' initiation ceremony among the Bemba of Northern Rhodesia,Bemba,Bemba rite
+117,Ritual112,A. I. Richards,1939,"Land, labour and diet in Northern Rhodesia: an economic study of the Bemba tribe",Bemba,The Blessing of Objects
+118,Ritual113,A. I. Richards,1939,"Land, labour and diet in Northern Rhodesia: an economic study of the Bemba tribe",Bemba,Rite of Purification
+119,Ritual114,R. Price,1991,Two evenings in Saramaka,Saramaka,
+120,Ritual115,R. Price,1991,Two evenings in Saramaka,Saramaka,
+121,Ritual116,R. Price,1991,Two evenings in Saramaka,Saramaka,
+122,Ritual117,R. Price,1991,Two evenings in Saramaka,Saramaka,
+123,Ritual119,E. M. Ahern,1973,The cult of the dead in a Chinese village,Taiwan Hokkien,Co-su-kong Festival
+124,Ritual120a,E. M. Ahern,1973,The cult of the dead in a Chinese village,Taiwan Hokkien,The Cutting (Kuaq-tng)
+125,Ritual120b,S. Harrell,1973,Belief and unbelief in a Taiwan village,Taiwan Hokkien,The Cutting (Kuaq-tng)
+126,Ritual121,E. M. Ahern,1973,The cult of the dead in a Chinese village,Taiwan Hokkien,Trip to Underworld by Tang-ki
+127,Ritual122,D. R. DeGlopper,1974,Religion and ritual in Lukang,Taiwan Hokkien,Am-hang
+128,Ritual123,K. M. Schipper,1974,The written memorial in Taoist ceremonies,Taiwan Hokkien,Great Communal Sacrifice (ta-chiao)
+129,Ritual124,S. Harrell,1973,Belief and unbelief in a Taiwan village,Taiwan Hokkien,Merit-Making / Funeral Rituals (kong-tik)
+130,Ritual125,S. Harrell,1973,Belief and unbelief in a Taiwan village,Taiwan Hokkien,Shamans Posession and Divination of Illness/Madness
+131,Ritual126,D. K. Jordan,1972,"Gods, ghosts, and ancestors: the folk religion of a Taiwanese village",Taiwan Hokkien,Prophylactic Exorcism Rite (Shiehtuu)
+132,Ritual127,D. Jordan,1972,"Gods, ghosts, and ancestors: the folk religion of a Taiwanese village",Taiwan Hokkien,Triennial Festival: Wangjiaw
+133,Ritual128,G. Seaman,1983,Temple organization in a Chinese village,Taiwan Hokkien,Spirit Writing Seance
+134,Ritual129,H. Gates,1983,"Prosperity Settlement: the politics of PAIPAI in Taipei, Taiwan",Taiwan Hokkien,Ritual during pai-pai commemoration of deity
+135,Ritual130,W. E. A. V. Beek,1988,Functions of sculpture in Dogon religion,Dogon,Ritual to encourage fertility
+136,Ritual131,W. E. A. V. Beek,1992,"Becoming human in Dogon, Mali",Dogon,Naming Ritual
+137,Ritual132,D. Paulme,1940,Social organization of the Dogon (French Sudan),Dogon,Initiation
+138,Ritual133,M. Palau Martí,1957,The Dogon,Dogon,Dogon Sacrifice
+139,Ritual134,W.E.A. Beek,1992,"Becoming human in Dogon, Mali",Dogon,Sigui Festival
+140,Ritual135,M. Griaule,1938,Dogon masks,Dogon,Dama Ritual Day 1
+141,Ritual136,M. Griaule,1938,Dogon masks,Dogon,Dama Ritual Day 2
+142,Ritual137,M. Griaule,1938,Dogon masks,Dogon,Consecration of the Great Mask
+143,Ritual138,A. M. Hocart,1929, Fiji,Lau Fijians,Installation of the Sau Chief
+144,Ritual139,L. Thompson,1940,"Southern Lau, Fiji: an ethnography",Lau Fijians,Kava Ceremony
+145,Ritual140,A. M. Hocart,1929,Lau Islands,Lau Fijians,Feasts
+146,Ritual141,L. Thompson,1940,"Southern Lau, Fiji: an ethnography",Lau Fijians,Kato nda
+147,Ritual142,L. Thompson,1940,"Southern Lau, Fiji: an ethnography",Lau Fijians,Mangitchi ni ona singa
+148,Ritual143,A. M. Hocart,1929, Fiji,Lau Fijians,Funeral
+149,Ritual144,A. M. Hocart,1929, Fiji,Lau Fijians,Circumcision
+150,Ritual145,L. Thompson,1940,"Southern Lau, Fiji: an ethnography",Lau Fijians,First Fruits Ceremony
+151,Ritual146,L. Thompson,1940,"Southern Lau, Fiji: an ethnography",Lau Fijians,"Ceremonial Exchanges, Solevu"
+152,Ritual147,H. Becher,1960,"The Surara and Pakidai, two Yanoama tribes in northwest Brazil",Yanoama,Name-giving
+153,Ritual148,H. Becher,1960,"The Surara and Pakidai, two Yanoama tribes in northwest Brazil",Yanoama,Puberty Rites for Girls
+154,Ritual149,H. Becher,1960,"The Surara and Pakidai, two Yanoama tribes in northwest Brazil",Yanoama,Funeral
+155,Ritual150,H. Becher,1960,"The Surara and Pakidai, two Yanoama tribes in northwest Brazil",Yanoama,Secondary Burial Ritual
+156,Ritual151,H. Becher,1960,"The Surara and Pakidai, two Yanoama tribes in northwest Brazil",Yanoama,The Festival in Memory of the Dead (patapáanomão)
+157,Ritual152,H. Becher,1960,"The Surara and Pakidai, two Yanoama tribes in northwest Brazil",Yanoama,Magical Cure
+158,Ritual153,H. Becher,1960,"The Surara and Pakidai, two Yanoama tribes in northwest Brazil",Yanoama,Hunting Magic
+159,Ritual154,H. Becher,1960,"The Surara and Pakidai, two Yanoama tribes in northwest Brazil",Yanoama,Rain Magic
+160,Ritual155,L. Spier,1930,Klamath ethnography,Klamath,Power Quest for Spirit
+161,Ritual156,L. Spier,1930,Klamath ethnography,Klamath,Shamans Performance
+162,Ritual157,L. Spier,1930,Klamath ethnography,Klamath,Curing Ritual
+163,Ritual158,L. Spier,1930,Klamath ethnography,Klamath,Sweat Lodges
+164,Ritual159,H. H. Hansen,1961,"The Kurdish woman's life: field research in a Muslim society, Iraq",Kurds,5 Daily Prayers
+165,Ritual160,H. H. Hansen,1961,"The Kurdish woman's life: field research in a Muslim society, Iraq",Kurds,Pilgrimage to Mecca
+166,Ritual161,M. Izady,1992,The Kurds: a concise handbook,Kurds,Jam
+167,Ritual163,É. Dijour,1933,Ceremonies for the expulsion of illnesses among the Mataco,Mataco,Ceremony for the Expulsion of Illnesses for All the Village
+168,Ritual164,R. Karsten,1932,Indian tribes of the Argentine and Bolivian Chaco: ethnological studies,Mataco,Tattooing of Girls
+169,Ritual165,R. Karsten,1932,Indian tribes of the Argentine and Bolivian Chaco: ethnological studies,Mataco,Girls Initiation
+170,Ritual166,R. Karsten,1932,Indian tribes of the Argentine and Bolivian Chaco: ethnological studies,Mataco,Magical Ceremony to Cure Sickness
+171,Ritual167,R. Karsten,1932,Indian tribes of the Argentine and Bolivian Chaco: ethnological studies,Mataco,"Purification Ceremony, koyadanattí"
+172,Ritual168,F. E. Besmer,1983,Musicians and gods: the Hausa cult of possession-trance,Hausa,Girka
+173,Ritual169,F. E. Besmer,1983,Musicians and gods: the Hausa cult of possession-trance,Hausa,Periodic Possession-Trance Ceremonies
+174,Ritual170,R. F. Barton,1946,The religion of the Ifugao,Ifagao,"Divination Rite, Agba"
+175,Ritual171,R. F. Barton,1946,The religion of the Ifugao,Ifagao,Hunting Ritual
+176,Ritual172,R. F. Barton,1946,The religion of the Ifugao,Ifagao,Rice Ritual
+177,Ritual173,R. F. Barton,1946,The religion of the Ifugao,Ifagao,Ponga Marriage Ritual
+178,Ritual174,H. O. H. O. Beyer,1911,An Ifugao burial ceremony,Ifagao,Vengeance Ceremony
+179,Ritual175,R. F. Barton,1946,The religion of the Ifugao,Ifagao,General Ritual Elements
+180,Ritual176,F. Lambrecht,1932,The Mayawyaw ritual: parts 1-5,Ifagao,First Day
+181,Ritual177,F. Lambrecht,1932,The Mayawyaw ritual: parts 1-5,Ifagao,Second Day of the Ipad
+182,Ritual178,F. Lambrecht,1932,The Mayawyaw ritual,Ifagao,"Third Day of the Ipad. Punhicha′an, the Banquet (A) The Chalo′ng Rite"
+183,Ritual179,F. Lambrecht,1932,The Mayawyaw ritual: parts 1-5,Ifagao,"Third Day of the Ipad. Punhicha′an, the Banquet (B) The Lo′glog Rite"
+184,Ritual180,F. Lambrecht,1932,The Mayawyaw ritual: parts 1-5,Ifagao,"Third Day of the Ipad. Punhicha′an, the Banquet (C) The Great Sacrifice of the l′pad"
+185,Ritual181,F. Lambrecht,1932,The Mayawyaw ritual: parts 1-5,Ifagao,Fourth Day of the I′pad
+186,Ritual182,F. Lambrecht,1932,The Mayawyaw ritual: parts 1-5,Ifagao,Fifth Day of the I′pad: The Ala′wit Sacrifice
+187,Ritual183,F. Lambrecht,1932,The Mayawyaw ritual: parts 1-5,Ifagao,The simple Pa′hang
+188,Ritual184,V. W. Turner,1952,The Lozi peoples of north-western Rhodesia,Lozi,Initiation
+189,Ritual185,V. W. Turner,1952,The Lozi peoples of north-western Rhodesia,Lozi,Exorcism
+190,Ritual186,B. Malinowski,,Coral gardens and their magic: a study of the methods of tilling the soil and of agricultural rites in the Trobriand Islands. Vol. one,Trobrianders,"First Grand Inaugural Act, Ceremony"
+191,Ritual187,B. Malinowski,,Coral gardens and their magic: a study of the methods of tilling the soil and of agricultural rites in the Trobriand Islands. Vol. one,Trobrianders,"First Grand Inaugural Act, Charming of the Axes"
+192,Ritual188,B. Malinowski,,Coral gardens and their magic: a study of the methods of tilling the soil and of agricultural rites in the Trobriand Islands. Vol. one,Trobrianders,"First Grand Inaugural Act, Procession to Gardens"
+193,Ritual189,B. Malinowski,,Coral gardens and their magic: a study of the methods of tilling the soil and of agricultural rites in the Trobriand Islands. Vol. one,Trobrianders,"Second Grand Inaugural Act, Days 1 and 2"
+194,Ritual190,B. Malinowski,,Coral gardens and their magic: a study of the methods of tilling the soil and of agricultural rites in the Trobriand Islands. Vol. one,Trobrianders,"Second Grand Inaugural Act, Day 3"
+195,Ritual191,B. Malinowski,,Coral gardens and their magic: a study of the methods of tilling the soil and of agricultural rites in the Trobriand Islands. Vol. one,Trobrianders,"Second Grand Inaugural Act, Day 4"
+196,Ritual192,S. A. Campbell,1989,Vakutan mortuary cycle,Trobrianders,"Funeral, Phase 1"
+197,Ritual193,S. A. Campbell,1989,Vakutan mortuary cycle,Trobrianders,"Funeral, Phase 2"
+198,Ritual194,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Mampapotanoana
+199,Ritual195,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Momparilangka
+200,Ritual196,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Incision of the Penis
+201,Ritual197,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Funeral 1
+202,Ritual198,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Funeral 2
+203,Ritual199,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Tandojae
+204,Ritual200,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Second Burial
+205,Ritual201,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Moandu sala
+206,Ritual202,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Morambu langi
+207,Ritual203,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Mowase
+208,Ritual204,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Mombakati
+209,Ritual205,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Molanggo
+210,Ritual206,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Harvest
+211,Ritual207,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Molinga
+212,Ritual208,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,Mopasangke
+213,Ritual209,R. E. Downs,1956,The religion of the Bare-'e-speaking Toradja of central Celebes,Toradja,"Mpadungku, Harvest Feast"
+214,Ritual210,C. McClellan,1954,The interrelations of social structure with northern Tlingit ceremonialism,Tlingit,Potlatch
+215,Ritual211,C. McClellan,1954,The interrelations of social structure with northern Tlingit ceremonialism,Tlingit,
+216,Ritual212,C. McClellan,1954,The interrelations of social structure with northern Tlingit ceremonialism,Tlingit,
+217,Ritual213,C. McClellan,1954,The interrelations of social structure with northern Tlingit ceremonialism,Tlingit,
+218,Ritual214,G. T. Emmons,1991,The Tlingit Indians,Tlingit,Dedication of the House
+219,Ritual215,G. T. Emmons,1991,The Tlingit Indians,Tlingit,"Dedication of the House, Smoking Feast"
+220,Ritual216,G. T. Emmons,1991,The Tlingit Indians,Tlingit,"Dedication of the House, Meeting, Ut-keh-yes-ko-eek"
+221,Ritual217,G. T. Emmons,1991,The Tlingit Indians,Tlingit,Minor Potlatch
+222,Ritual218,G. T. Emmons,1991,The Tlingit Indians,Tlingit,Major Potlatch
+223,Ritual219,G. T. Emmons,1991,The Tlingit Indians,Tlingit,Ceremony for the Children
+224,Ritual220,A. R. A. R. Radcliffe-Brown,1922,The Andaman islanders: a study in social anthropology,Andamans,Girls Initiation
+225,Ritual221,A. R. A. R. Radcliffe-Brown,1922,The Andaman islanders: a study in social anthropology,Andamans,Boys Initiation
+226,Ritual222,A. R. A. R. Radcliffe-Brown,1922,The Andaman islanders: a study in social anthropology,Andamans,"Ceremony to Release Youth from Turtle-Eating Restriction, Part 1"
+227,Ritual223,A. R. A. R. Radcliffe-Brown,1922,The Andaman islanders: a study in social anthropology,Andamans,"Ceremony to Release Youth from Turtle-Eating Restriction, Part 2"
+228,Ritual224,A. R. A. R. Radcliffe-Brown,1922,The Andaman islanders: a study in social anthropology,Andamans,The Shedding of Tears
+229,Ritual225,A. R. A. R. Radcliffe-Brown,1922,The Andaman islanders: a study in social anthropology,Andamans,Weather rite
+230,Ritual226,R. Cohen,1967,The Kanuri of Bornu,Kanuri,Naming Ceremony
+231,Ritual227,R. Cohen,1967,The Kanuri of Bornu,Kanuri,Death Ceremony
+232,Ritual228,A. Rosman,1966,Social structure and acculturation among the Kanuri of northern Nigeria,Kanuri,"Ngumri Ashembe, End of Ramadan"
+233,Ritual229,A. Rosman,1966,Social structure and acculturation among the Kanuri of northern Nigeria,Kanuri,Ngumri Laya (or Salla Laya)
+234,Ritual230,A. Rosman,1966,Social structure and acculturation among the Kanuri of northern Nigeria,Kanuri,Wedding
+235,Ritual231,I. Sjorslev,1987,Untimely gods and French perfume: ritual,Bahia Brazilians,Candomblé Possession Cult
+236,Ritual231,H. W. Hutchinson,1922,Village and plantation life in northeastern Brazil,Bahia Brazilians,Candomblé Possession Cult
+236,Ritual232,H. W. Hutchinson,1922,Village and plantation life in northeastern Brazil,Bahia Brazilians,Festivals
+237,Ritual233,J. R. Murie,1989,Ceremonies of the Pawnee,Pawnee,Corn Offering Ritual
+238,Ritual234,J. R. Murie,1989,Ceremonies of the Pawnee,Pawnee,Meat Offering Ritual
+239,Ritual235,J. R. Murie,1989,Ceremonies of the Pawnee,Pawnee,Thunger or Bundle Renewal Ceremony
+240,Ritual236,J. R. Murie,1989,Ceremonies of the Pawnee,Pawnee,The Corn Planting Ceremony
+241,Ritual237,J. R. Murie,1989,Ceremonies of the Pawnee,Pawnee,Young Corn Plant Ritual
+242,Ritual238,J. R. Murie,1989,Ceremonies of the Pawnee,Pawnee,Great Washing Ceremony
+243,Ritual239,J. R. Murie,1989,Ceremonies of the Pawnee,Pawnee,Human Sacrifice to the Morning Star
+244,Ritual240,J. R. Murie,1989,Ceremonies of the Pawnee,Pawnee,The Smoke Offering
+245,Ritual241,R. Linton,1923,Annual ceremony of the Pawnee medicine man,Pawnee,Annual Ceremony of the Medicine Men: Preparation 1
+246,Ritual242,R. Linton,1923,Annual ceremony of the Pawnee medicine man,Pawnee,
+247,Ritual243,R. Linton,1923,Annual ceremony of the Pawnee medicine man,Pawnee,
+248,Ritual244,R. Linton,1923,Annual ceremony of the Pawnee medicine man,Pawnee,
+249,Ritual245,R. Linton,1923,Annual ceremony of the Pawnee medicine man,Pawnee,
+250,Ritual246,E. Beaglehole,1970,Hopi hunting and ritual,Hopi,Hunting Initiation
+251,Ritual247,E. Beaglehole,1935,Hopi of the second mesa,Hopi,Funeral
+252,Ritual248,B. Harvey,1970,Ritual in Pueblo art: Hopi life in Hopi painting,Hopi,Chief's Ritual Smoking for Fair Weather
+253,Ritual249,H. R. Voth,1905,Oraibi natal customs and ceremonies,Hopi,Naming Ritual
+254,Ritual250,M. Titiev,1971,Old Oraibi: a study of the Hopi Indians of the Third Mesa,Hopi,The Momtcit Ceremony
+255,Ritual251,H. R. Voth,,Brief miscellaneous Hopi papers,Hopi,
+256,Ritual252,H. R. Voth,1903,The Oráibi Oáqöl ceremony,Hopi,Kúivato
+257,Ritual253,M. Chapin,1997,Curing among the San Blas Kuna of Panama,Kuna,Nia Ikar
+258,Ritual254,M. Chapin,1997,Curing among the San Blas Kuna of Panama,Kuna,"Conversing, Apsoket"
+259,Ritual255,J. Sherzer,1983,Kuna ways of speaking: an ethnographic perspective,Kuna,"Girls' puberty rites, Inna rites"
+260,Ritual256a,L. C. Hamilton,,The E-Unoto ceremony of the Masai,Kuna,The Day of the Red Dance
+261,Ritual256b,P. Spencer,1988,The Maasai of Matapato: a study of rituals of rebellion,Maasai,
+262,Ritual257,L. C. Hamilton,,The E-Unoto ceremony of the Masai,Maasai,"The Day of the White Dance, Part 1"
+263,Ritual258,L. C. Hamilton,,The E-Unoto ceremony of the Masai,Maasai,"The Day of the White Dance, Part 2"
+264,Ritual259a,L. C. Hamilton,,The E-Unoto ceremony of the Masai,Maasai,The Day of the Sacred Hut
+265,Ritual259b,P. Spencer,1988,The Maasai of Matapato: a study of rituals of rebellion,Maasai,
+266,Ritual260a,G. W. B. Huntingford,1953,The southern Nilo-Hamites,Maasai,Circumcision (E-murrata)
+267,Ritual260b,P. Spencer,1988,The Maasai of Matapato: a study of rituals of rebellion,Maasai,Circumcision (E-murrata)
+268,Ritual261,B. J. Terwiel,1975,Monks and magic: an analysis of religious ceremonies in central Thailand,Central Thai,Ordination of Buddhist Priest
+269,Ritual262,B. J. Terwiel,1975,Monks and magic: an analysis of religious ceremonies in central Thailand,Central Thai,"Chanting, Part 1"
+270,Ritual263,B. J. Terwiel,1975,Monks and magic: an analysis of religious ceremonies in central Thailand,Central Thai,"Chanting, Part 2"
+271,Ritual264,B. J. Terwiel,1975,Monks and magic: an analysis of religious ceremonies in central Thailand,Central Thai,Meditation
+272,Ritual265,R. L. Sharp,1978,Bang Chan: social history of a rural community in Thai,Central Thai,Funeral
+273,Ritual266,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Lenten Period?
+274,Ritual267,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Kathin Ceremony
+275,Ritual268,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Phapa Ceremony
+276,Ritual269,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Makhabucha Ceremony
+277,Ritual270,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Rice Pagoda Ritual (Khawphrasajkhawphlyag)
+278,Ritual271,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Wissakhabucha Ceremony
+279,Ritual272,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Wiantian 
+280,Ritual273,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Special Ritual of the Wat Artist
+281,Ritual274,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Housewarming Ritual
+282,Ritual275,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Floating Leafcup (Lojkrathong)
+283,Ritual276,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Thamkhwanjung
+284,Ritual277,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Rain-Making Ritual
+285,Ritual278,B. J. Terwiel,1975,Monks and magic: an analysis of religious ceremonies in central Thailand,Central Thai,Wâajkhruu Ceremony
+286,Ritual279,B. J. Terwiel,1975,Monks and magic: an analysis of religious ceremonies in central Thailand,Central Thai,Jóg khruu
+287,Ritual280,T. Ayabe,1973,"Education and culture in a Thai rural community: a report of field research in Tambon Bang Khem: a report of field research in Tambon Bang Khem, Thailand",Central Thai,The Rite of Topknot Cutting
+288,Ritual281,H. K. Kaufman,1960,Bangkhuad: a community study in Thailand,Central Thai,Wajkhru
+289,Ritual282,S. Banerjee,1962,The Khasi festival of 'pomblang',Khasi,"Pomblang Festival, Day 1 and 2"
+290,Ritual283,S. Banerjee,1962,The Khasi festival of 'pomblang',Khasi,"Pomblang Festival, Day 3"
+291,Ritual284,C. Becker,1909,The Nongkrem Puja in the Khasi Mountains (Assam),Khasi,Nongkrem Puja
+292,Ritual285,C. Becker,1909,The Nongkrem Puja in the Khasi Mountains (Assam),Khasi,The Rooster Sacrifice
+293,Ritual286,P. R. T. Gurdon,1907,The Khasis,Khasi,Naming of the Child Ceremony
+294,Ritual287,P. R. T. Gurdon,1907,The Khasis,Khasi,Death Ceremonies
+295,Ritual288,P. R. T. Gurdon,1907,The Khasis,Khasi,Disposal of the Dead
+296,Ritual289,P. R. T. Gurdon,1907,The Khasis,Khasi,
+297,Ritual290,P. R. T. Gurdon,1907,The Khasis,Khasi,
+298,Ritual291,P. R. T. Gurdon,1907,The Khasis,Khasi,
+299,Ritual292,W. Fenton,1951,The Feast of the Dead or Ghost Dance at Six Nations Reserve,Iroquois,
+300,Ritual293,D. P. St. John,1994,The dream-vision experience of the Iroquois: its religious meaning,Iroquois,The Rite of Confession
+301,Ritual294,A. Shimony,1961,Conservatism among the Iroquois at the Six Nations Reserve,Iroquois,False Face Ceremony
+302,Ritual295,A. Shimony,1961,Conservatism among the Iroquois at the Six Nations Reserve,Iroquois,Thanksgiving Address
+303,Ritual296,A. Shimony,1961,Conservatism among the Iroquois at the Six Nations Reserve,Iroquois,Funeral
+304,Ritual297,A. Shimony,1961,Conservatism among the Iroquois at the Six Nations Reserve,Iroquois,The Tenth-Day Feast
+305,Ritual298,D. P. St. John,1994,The dream-vision experience of the Iroquois: its religious meaning,Iroquois,Small Dead Feast
+306,Ritual299,D. P. St. John,1994,The dream-vision experience of the Iroquois: its religious meaning,Iroquois,Six Nations Convention
+307,Ritual300,G. Reichel-Dolmatoff,1974,Funerary customs and religious symbolism among the Kogi,Kogi,Funeral
+308,Ritual301,G. Reichel-Dolmatoff,1951,"The Kogi: a tribe of the Sierra Nevada de Santa Marta, Colombia. Vol. 2",Kogi,"The Gaulí Ceremony, Baptism"
+309,Ritual302,G. Reichel-Dolmatoff,1951,"The Kogi: a tribe of the Sierra Nevada de Santa Marta, Colombia. Vol. 3",Kogi,Initiation
+310,Ritual303,G. Reichel-Dolmatoff,1951,"The Kogi: a tribe of the Sierra Nevada de Santa Marta, Colombia. Vol. 4",Kogi,Annual Ceremonies of the Dances of the Masks
+311,Ritual304,G. Reichel-Dolmatoff,1951,"The Kogi: a tribe of the Sierra Nevada de Santa Marta, Colombia. Vol. 5",Kogi,First Planting of the Year
+312,Ritual305,G. Reichel-Dolmatoff,1951,"The Kogi: a tribe of the Sierra Nevada de Santa Marta, Colombia. Vol. 6",Kogi,First Harvest
+313,Ritual306,G. Reichel-Dolmatoff,1951,"The Kogi: a tribe of the Sierra Nevada de Santa Marta, Colombia. Vol. 7",Kogi,"Sahumar, Smoking"
+314,Ritual307,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,Birth Ceremony
+315,Ritual308,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,First Hair-Cutting Ceremony
+316,Ritual309,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,Girls' Initiation
+317,Ritual310,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,Ceremonial Collection of Bride Price
+318,Ritual311,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,Prior to Burial
+319,Ritual312,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,Pre-Juwo Ritual
+320,Ritual313,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,"Juwo, The Pig Feast"
+321,Ritual314,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,"Tapa, Fund-Raising Ceremony"
+322,Ritual315,L. Pospisil,1978,The Kapauku Papuans of West New Guinea,Kapauku,Healing Ritual
+323,Ritual316,A. Pilz,1988,Manang Jabing Anak Incham: a study of an Iban healer/Sarawak,Iban,"Besudi, Healing Ritual"
+324,Ritual317,J. Perham,1887,Manangism in Borneo,Iban,"Pelians, Healing Ritual"
+325,Ritual318,W. Howell,1908-1910,The Sea Dyak,Iban,Mandi Rumah
+326,Ritual319,W. Howell,1908-1910,The Sea Dyak,Iban,Nyabak Nerengka
+327,Ritual320,W. Howell,1908-1910,The Sea Dyak,Iban,Ngambi Sabayan Ngabang
+328,Ritual321,W. Howell,1908-1910,The Sea Dyak,Iban,
+329,Ritual322,W. Howell,1908-1910,The Sea Dyak,Iban,"Nyinklan Benih, The Ceremony of Touching the Paddi Seeds with Blood"
+330,Ritual323a,-. Benedict Sandin,1980,Iban adat and augury,Iban,Bathing Ceremony
+331,Ritual323b,W. Howell,1908-1910,The Sea Dyak,Iban,Nganjong Mandi
+332,Ritual324,J. Davison,1991,The children of NISING: images of headhunting and male sexuality in Iban ritual and oral literature,Iban,Timang Gawai Amat
+333,Ritual325,J. Davison,1991,The children of NISING: images of headhunting and male sexuality in Iban ritual and oral literature,Iban,"Gawai, Festival"
+334,Ritual326,E. Jensen,1974,The Iban and their religion,Iban,The Rites of Manggol
+335,Ritual327,E. Jensen,1974,The Iban and their religion,Iban,Ngintu Jalai Umai
+336,Ritual328,E. Jensen,1974,The Iban and their religion,Iban,Basoh Arang
+337,Ritual329,E. Jensen,1974,The Iban and their religion,Iban,"Nunu Lilin, Burning Wax Ceremony"
+338,Ritual330,E. Jensen,1974,The Iban and their religion,Iban,The Rice Harvest
+339,Ritual331,E. Jensen,1974,The Iban and their religion,Iban,Nganjong Ka Penyedai
+340,Ritual332,E. Gomes,1911,Seventeen years among the Sea Dyaks of Borneo: a record of intimate association with the natives of the Bornean jungles,Iban,Piring
+341,Ritual333,A. Silva,1962,The indigenous civilization of the Uaupés,Tukano,Elegy-Weeping
+342,Ritual334,A. Silva,1962,The indigenous civilization of the Uaupés,Tukano,Girls Initiation and Defloration
+343,Ritual335,S. Hugh-Jones,1979,The palm and the Pleiades: initiation and cosmology in northwest Amazonia,Tukano,Fruit House Ritual
+344,Ritual336,S. Hugh-Jones,1979,The palm and the Pleiades: initiation and cosmology in northwest Amazonia,Tukano,Dance at the Fruit House
+345,Ritual337,S. Hugh-Jones,1979,The palm and the Pleiades: initiation and cosmology in northwest Amazonia,Tukano,Fruit House as the First Stage of Initiation
+346,Ritual338a,C. Hugh-Jones,,From the Milk River: spatial and temporal processes in northwest Amazonia,Tukano,
+347,Ritual338b,S. Hugh-Jones,1979,The palm and the Pleiades: initiation and cosmology in northwest Amazonia,Tukano,
+348,Ritual339,I. Goldman,1963,The Cubeo: Indians of the Northwest Amazon,Tukano,
+349,Ritual340,I. Goldman,1963,The Cubeo: Indians of the Northwest Amazon,Tukano,Concluding Ceremony
+350,Ritual341,P. Bohannan,1969,A source book on Tiv religion in 5 volumes,Tiv,Washing Akombo
+351,Ritual342,P. Bohannan,1969,A source book on Tiv religion in 5 volumes,Tiv,Repairing Akombo
+352,Ritual343,P. Bohannan,1969,A source book on Tiv religion in 5 volumes,Tiv,Ityumbun Wan
+353,Ritual344,P. Bohannan,1969,A source book on Tiv religion in 5 volumes,Tiv,Senda Hwav
+354,Ritual345,P. Bohannan,1969,A source book on Tiv religion in 5 volumes,Tiv,Funerals
+355,Ritual346,R. M. Downes,1971,Tiv religion,Tiv,Akombo Igbe
+356,Ritual347,R. M. Downes,1971,Tiv religion,Tiv,The Ceremony for the Establishing of the Ihambe
+357,Ritual348,R. M. Downes,1971,Tiv religion,Tiv,Iwo Yangen
+358,Ritual349,R. M. Downes,1971,Tiv religion,Tiv,Swende u ombor
+359,Ritual350,R. M. Downes,1971,Tiv religion,Tiv,Swende u ndor
+360,Ritual351,R. M. Downes,1971,Tiv religion,Tiv,Itembe Mku
+361,Ritual352,R. M. Downes,1971,Tiv religion,Tiv,Ikombo Mku (not itimbe mku)
+362,Ritual353,R. M. Downes,1971,Tiv religion,Tiv,Akombo Agbande
+363,Ritual354,R. M. Downes,1971,Tiv religion,Tiv,The Ingbianjol
+364,Ritual355,A. Métraux,1948,The Guarani,Guarani,Boy's Initiation
+365,Ritual356,R. K. Reed,1995,Prophets of agroforestry: Guarani communities and commercial gathering,Guarani,Ñembo'é
+366,Ritual357,R. K. Reed,1995,Prophets of agroforestry: Guarani communities and commercial gathering,Guarani,Ñembo'é
+367,Ritual358,R. K. Reed,1995,Prophets of agroforestry: Guarani communities and commercial gathering,Guarani,Ñimongaraí
+368,Ritual359,D. P. Gamble,1991,A Wolof naming ceremony: human interaction and its aesthetic significance,Wolof,The Naming Ceremony
+369,Ritual360,D. P. Gamble,1957,The Wolof of Senegambia: together with notes on the Lebu and the Serer,Wolof,Circumcision
+370,Ritual361,D. P. Gamble,1957,The Wolof of Senegambia: together with notes on the Lebu and the Serer,Wolof,Circumcision-related
+371,Ritual362,D. P. Gamble,1957,The Wolof of Senegambia: together with notes on the Lebu and the Serer,Wolof,Circumcision-related
+372,Ritual363,D. P. Gamble,1957,The Wolof of Senegambia: together with notes on the Lebu and the Serer,Wolof,Circumcision-related
+373,Ritual364,D. P. Gamble,1957,The Wolof of Senegambia: together with notes on the Lebu and the Serer,Wolof,Taka
+374,Ritual365,D. P. Gamble,1957,The Wolof of Senegambia: together with notes on the Lebu and the Serer,Wolof,Mur
+375,Ritual366,D. P. Gamble,1957,The Wolof of Senegambia: together with notes on the Lebu and the Serer,Wolof,Funeral
+376,Ritual368,C. Vecsey,1983,Traditional Ojibwa religion and its historical changes,Ojibway,Funeral
+377,Ritual369,C. Vecsey,1983,Traditional Ojibwa religion and its historical changes,Ojibway,
+378,Ritual370,P. Grant,1980,The Saulteux Indians about 1804,Ojibway,Mitewie Ceremony
+379,Ritual371,C. Vecsey,1983,Traditional Ojibwa religion and its historical changes,Ojibway,Shaking Tent Ceremony
+380,Ritual372,C. Vecsey,1983,Traditional Ojibwa religion and its historical changes,Ojibway,Girls' Menstruation Rite
+381,Ritual373,S. K. Lothrop,1928,The Indians of Tierra del Fuego,Ona,Healing Ritual
+382,Ritual374,M. Gusinde,1931,The Fireland Indians: Vol. 1. The Selk'nam on the life and thought of a hunting people of the Great Island of Tierra del Fuego,Ona,Procedure at Girls First Menstruation
+383,Ritual375,M. Gusinde,1931,The Fireland Indians: Vol. 1. The Selk'nam on the life and thought of a hunting people of the Great Island of Tierra del Fuego,Ona,Sacrifices
+384,Ritual376,M. Gusinde,1931,The Fireland Indians: Vol. 1. The Selk'nam on the life and thought of a hunting people of the Great Island of Tierra del Fuego,Ona,Sacrifices
+385,Ritual377,M. Gusinde,1931,The Fireland Indians: Vol. 1. The Selk'nam on the life and thought of a hunting people of the Great Island of Tierra del Fuego,Ona,
+386,Ritual378,M. Gusinde,1931,The Fireland Indians: Vol. 1. The Selk'nam on the life and thought of a hunting people of the Great Island of Tierra del Fuego,Ona,
+387,Ritual379,A. Chapman,1982,Drama and power in a hunting society: the Selk'nam of Tierra del Fuego,Ona,Ritual to Bring Good Weather
+388,Ritual380,A. Chapman,1982,Drama and power in a hunting society: the Selk'nam of Tierra del Fuego,Ona,The sham Hain
+389,Ritual381,B. S. Spencer,1898,Notes on certain of the initiation ceremonies of the Arunta tribe,Aranda,
+390,Ritual382,B. S. Spencer,1898,Notes on certain of the initiation ceremonies of the Arunta tribe,Aranda,
+391,Ritual383,B. S. Spencer,1898,Notes on certain of the initiation ceremonies of the Arunta tribe,Aranda,Circumcision or Lartna
+392,Ritual384,B. S. Spencer,1898,Notes on certain of the initiation ceremonies of the Arunta tribe,Aranda,
+393,Ritual385,B. S. Spencer,1927,The Arunta: a study of a stone age people,Aranda,Urpmilchimilla
+394,Ritual386,B. S. Spencer,1927,The Arunta: a study of a stone age people,Aranda,Urpmilchimilla
+395,Ritual387,B. S. Spencer,1927,The Arunta: a study of a stone age people,Aranda,Aina-Arilta-Kuma
+396,Ritual388,B. S. Spencer,1927,The Arunta: a study of a stone age people,Aranda,Promoting the Growth of the Breasts
+397,Ritual389,B. S. Spencer,1927,The Arunta: a study of a stone age people,Aranda,First Menstruation
+398,Ritual390,C. M. Turnbull,1962,The forest people,Mbuti,Molimo
+399,Ritual391,C. M. Turnbull,1962,The forest people,Mbuti,Elima 
+400,Ritual392,C. M. Turnbull,1962,The forest people,Mbuti,"Nkumbo, Boys Initiation"
+401,Ritual393,C. M. Turnbull,1965,The Mbuti Pygmies: an ethnographic survey,Mbuti,Abo Lese
+402,Ritual394,C. M. Turnbull,1965,The Mbuti Pygmies: an ethnographic survey,Mbuti,Weather Invocation
+403,Ritual395,C. M. Turnbull,1965,The Mbuti Pygmies: an ethnographic survey,Mbuti,Food Offering
+404,Ritual396,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,"Village Festival, Denbilsia"
+405,Ritual397,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,"Village Festival, Agalmaka"
+406,Ritual398,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,"Village Festival, Asiroka"
+407,Ritual399,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,"Village Festival, Miamua"
+408,Ritual400,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,"Village Festival, Rongchugala"
+409,Ritual401,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,"Village Festival, Ahaia"
+410,Ritual402,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,"Village Festival, Wangala"
+411,Ritual403a,K. Khaleque,1988,Garo of Bangladesh: religion,Garo,
+412,Ritual403b,A. Playfair,1909,The Garos,Garo,
+413,Ritual404,A. Playfair,1909,The Garos,Garo,"Preparatory Ceremony, Ja 'Ragata"
+414,Ritual405,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,Corpse Disposal
+415,Ritual406,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,Ashes Disposal
+416,Ritual407,K. Khaleque,1988,"Garo of Bangladesh: religion, ritual and world view",Garo,Post-Funerary Ceremony
+417,Ritual408,A. Playfair,1909,The Garos,Garo,Asongtata Ceremony
+418,Ritual409,A. Playfair,1909,The Garos,Garo,Denjaringa Ceremony
+419,Ritual410,A. Playfair,1909,The Garos,Garo,Wangala Ceremony
+420,Ritual411,A. Playfair,1909,The Garos,Garo,Pongsi-nina
+421,Ritual412,A. Playfair,1909,The Garos,Garo,Risal-nina
+422,Ritual413,A. Playfair,1909,The Garos,Garo,Birth-related Ceremony
+423,Ritual414,A. Playfair,1909,The Garos,Garo,Birth-related Ceremony when birth is prolonged
+424,Ritual415,A. Playfair,1909,The Garos,Garo,Birth-related Ceremony
+425,Ritual416,A. Playfair,1909,The Garos,Garo,Birth-related Ceremony
+426,Ritual417,R. W. Firth,1970,Rank and religion in Tikopia: a study in paganism and conversion to Christianity,Tikopia,Kava
+427,Ritual418,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,Throwing the Firestick
+428,Ritual419,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,
+429,Ritual420,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,A Primitive Communion Feast
+430,Ritual421,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,Ritual Preparations for Planting
+431,Ritual422,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,Sacred Rites of Planting
+432,Ritual423,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,
+433,Ritual424,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,
+434,Ritual425,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,
+435,Ritual426,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,Ritual Extraction of Turmeric
+436,Ritual427,R. W. Firth,1940,The work of the gods in Tikopia,Tikopia,Regulations of the Nuanga
+437,Ritual428,T. Bringa,1995,Being Muslim the Bosnian way: identity and community in a central Bosnian village,Bosnian Muslims,Annual Dova for Rain
+438,Ritual429,T. Bringa,1995,Being Muslim the Bosnian way: identity and community in a central Bosnian village,Bosnian Muslims,Friday Prayer
+439,Ritual430,T. Bringa,1995,Being Muslim the Bosnian way: identity and community in a central Bosnian village,Bosnian Muslims,The Tehvid
+440,Ritual431a,T. Bringa,1995,Being Muslim the Bosnian way: identity and community in a central Bosnian village,Bosnian Muslims,Mevlud
+441,Ritual431b,W. G. Lockwood,1975,European Moslems: economy and ethnicity in western Bosnia,Bosnian Muslims,Mevlud
+442,Ritual432a,T. Bringa,1995,Being Muslim the Bosnian way: identity and community in a central Bosnian village,Bosnian Muslims,Private Mevlud
+443,Ritual432b,W. G. Lockwood,1975,European Moslems: economy and ethnicity in western Bosnia,Bosnian Muslims,Private Mevlud
+444,Ritual433a,T. Bringa,1995,Being Muslim the Bosnian way: identity and community in a central Bosnian village,Bosnian Muslims,Recital and Chanting of Mevlud Poems
+445,Ritual433b,W. G. Lockwood,1975,European Moslems: economy and ethnicity in western Bosnia,Bosnian Muslims,Recital and Chanting of Mevlud Poems
+446,Ritual434,R. J. Donia,1986,Islam under the double eagle: the Muslims of Bosnia and Herzegovina,Bosnian Muslims,Ramazan
+447,Ritual435,W. G. Lockwood,1975,European Moslems: economy and ethnicity in western Bosnia,Bosnian Muslims,
+448,Ritual436,T. Bringa,1995,Being Muslim the Bosnian way: identity and community in a central Bosnian village,Bosnian Muslims,
+449,Ritual437,B. C. Bennett,1974,Sutivan: a Dalmatian village in social and economic transition,Croats,Sveti Roko
+450,Ritual438,B. C. Bennett,1974,Sutivan: a Dalmatian village in social and economic transition,Croats,Return of Statue Procession
+451,Ritual439,B. C. Bennett,1974,Sutivan: a Dalmatian village in social and economic transition,Croats,
+452,Ritual440,B. C. Bennett,1974,Sutivan: a Dalmatian village in social and economic transition,Croats,Palm Sunday
+453,Ritual441,B. C. Bennett,1974,Sutivan: a Dalmatian village in social and economic transition,Croats,Good Friday Mass
+454,Ritual442,B. C. Bennett,1974,Sutivan: a Dalmatian village in social and economic transition,Croats,Resurrection of Christ Celebration
+455,Ritual443,B. C. Bennett,1974,Sutivan: a Dalmatian village in social and economic transition,Croats,Funeral Procession
+456,Ritual444,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe,Garifuna,Indio Bárbaro Procession
+457,Ritual445,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe,Garifuna,Palo de Pascua
+458,Ritual446,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe,Garifuna,Wanáragua Dance Procession
+459,Ritual447,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe,Garifuna,New Year's Eve
+460,Ritual448,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Día de los Reyes
+461,Ritual449,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Indio Bárbaro Procession
+462,Ritual450,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Miércoles Santo
+463,Ritual451,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Viernes Santo (Event 1)
+464,Ritual452,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Viernes Santo (Event 2)
+465,Ritual453,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Viernes Santo (Event 3)
+466,Ritual454,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Velada for San Antonio
+467,Ritual455,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Moros v Cristianos Dance
+468,Ritual456,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Velada for the Virgin del Carmen
+469,Ritual457,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Morning Procession for the Virgin del Carmen
+470,Ritual458,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Afternoon Procession for the Virgin del Carmen
+471,Ritual459,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Velada for San Miguel
+472,Ritual460,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Día de San Miguel
+473,Ritual461,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Día de los Difuntos
+474,Ritual462,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Wake for a Man in Triunfo de la Cruz
+475,Ritual463,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,"Wake, Funeral, and Burial for a Santa Fe Man"
+476,Ritual464,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Novenas
+477,Ritual465,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,Nightly Prayer Sessions During Novena
+478,Ritual466,C. C. Bianchi,1989,Gubida illness and religious ritual among the Garifuna of Santa Fe Honduras: an ethnopsychiatric analysis,Garifuna,
+479,Ritual467,V. Kerns,1983,Women and the ancestors: Black Carib kinship and ritual,Garifuna,Chugú
+480,Ritual468a,R. G. d. A. Coelho,,The Black Carib of Honduras: a study in acculturation,Garifuna,
+481,Ritual468b,B. Foster,,Heart drum: spirit possession in the communities of Belize,Garifuna,
+482,Ritual468c,D. M. Taylor,,The Black Carib of British Honduras,Garifuna,
+483,Ritual469,V. Kerns,1983,Women and the ancestors: Black Carib kinship and ritual,Garifuna,Araíraguni
+484,Ritual470,V. Kerns,1983,Women and the ancestors: Black Carib kinship and ritual,Garifuna,Amúidahani
+485,Ritual471,V. Kerns,1983,Women and the ancestors: Black Carib kinship and ritual,Garifuna,Requiem Mass
+486,Ritual472,D. F. Aberle,1966,The peyote religion among the Navaho,Navajo,Peyote Rituals
+487,Ritual473,C. J. Frisbie,1967,Kinaaldá: a study of the Navaho girl's puberty ceremony,Navajo,
+488,Ritual474,W. W. W. W. Hill,1935,Navaho rites for dispelling insanity and delirium,Navajo,
+489,Ritual475,W. W. W. W. Hill,1935,Navaho rites for dispelling insanity and delirium,Navajo,
+490,Ritual476,W. W. W. W. Hill,1935,The hand trembling ceremony of the Navaho,Navajo,Hand Trembling Ritual
+491,Ritual477,L. C. Wyman,,The Female Shooting Life Chant: a minor Navaho ceremony,Navajo,
+492,Ritual478,F. E. F. E. Williams,1930,Orokaiva society,Orokaiva,Embahi 'Separation' Ceremony
+493,Ritual479,F. E. F. E. Williams,1930,Orokaiva society,Orokaiva,Girls' Puberty Seclusion
+494,Ritual480,F. E. F. E. Williams,1930,Orokaiva society,Orokaiva,Funeral Proceedings
+495,Ritual481,F. E. F. E. Williams,1930,Orokaiva society,Orokaiva,Jage
+496,Ritual482,F. E. F. E. Williams,1930,Orokaiva society,Orokaiva,Doru
+497,Ritual483,F. E. F. E. Williams,1930,Orokaiva society,Orokaiva,Kasamba
+498,Ritual484,F. E. F. E. Williams,1930,Orokaiva society,Orokaiva,Medicine Man
+499,Ritual485,F. E. F. E. Williams,1930,Orokaiva society,Orokaiva,Drum-Beating
+500,Ritual486,E. W. P. Chinnery,1917,Five new religious cults in British New Guinea,Orokaiva,Kava-Keva Rites
+501,Ritual487,E. W. P. Chinnery,1917,Five new religious cults in British New Guinea,Orokaiva,Rites of Kekesi
+502,Ritual488,E. W. P. Collocott,1927,Kava ceremonial in Tonga,Tongans,Installation of the King Tu'i Kanokupolu
+503,Ritual489,E. W. P. Collocott,1927,Kava ceremonial in Tonga,Tongans,Kava to a Travelling Party
+504,Ritual490,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Kava
+505,Ritual491,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Umbilical Cord Ritual
+506,Ritual492,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Ten-Day Confinement
+507,Ritual493,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Ten-Day Confinement (Father visit)
+508,Ritual494,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Special Kava Ceremony Associated with Wedding
+509,Ritual495,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Burial
+510,Ritual496,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Kava-Circle
+511,Ritual497,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Grave Decorating
+512,Ritual498,E. Beaglehole,1941,Pangai: village in Tonga,Tongans,Mourning
+513,Ritual499,M. Evans,2001,Persistence of the gift: Tongan tradition in transnational context,Tongans,Feast
+514,Ritual500,H. D. Heinen,1974,"Ecology, ritual and economic organization in the distribution of palm starch among the Warao of the Orinoco Delta",Warao,Nahanamu
+515,Ritual501,H. D. Heinen,1974,"Ecology, ritual and economic organization in the distribution of palm starch among the Warao of the Orinoco Delta",Warao,Habi Sanuka
+516,Ritual502,M. M. Suárez,1968,The Warao: natives of the Orinoco Delta,Warao,"Initiation as Wisidatu, Shaman"
+517,Ritual503,M. M. Suárez,1968,The Warao: natives of the Orinoco Delta,Warao,Wisidatu Treatment
+518,Ritual504,J. Wilbert,1972,The fishermen: the Warao of the Orinoco Delta,Warao,Girls' Puberty Ceremony
+519,Ritual505,H. Massé,1954,Persian beliefs and customs,Iran,Wedding; Preliminary Ceremonies
+520,Ritual506,H. Massé,1954,Persian beliefs and customs,Iran,Post-Funeral Ceremonies
+521,Ritual507,H. Massé,1954,Persian beliefs and customs,Iran,Sacrifice of the Camel
+522,Ritual508,B. A. Donaldson,1938,The wild rue: a study of Muhammadan magic and folklore in Iran,Iran,The Sacrifice for the Sick
+523,Ritual509,H. Massé,1954,Persian beliefs and customs,Iran,
+524,Ritual510,H. Massé,1954,Persian beliefs and customs,Iran,The Procession of the Tenth Day (Achoura)
+525,Ritual511,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Adoption
+526,Ritual512,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,First Vows
+527,Ritual513,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,
+528,Ritual514,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Honouring the Five Chief Spirits
+529,Ritual515,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Om Mani Rite
+530,Ritual516,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Om Mani Rite (Second)
+531,Ritual517,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,The Age-Blessing
+532,Ritual518,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Rites Concerning the Guardian Spirits of the Wealth of the Family
+533,Ritual519,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Rite of the White Tiger
+534,Ritual520,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Procession with Sacred Books
+535,Ritual521,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Rite of the Sacred Animal of the Community
+536,Ritual522,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,"Shamanist Rites of Spring, First Day"
+537,Ritual523,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,"Shamanist Rites of Spring, Possession by the White Tiger (Second Day)"
+538,Ritual524,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,"Shamanist Rites of Spring, Greeting of the Goddess of Joy (Second Day)"
+539,Ritual525,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,"Shamanist Rites of Spring, Leave-Taking of the Spirits (Second Day)"
+540,Ritual526,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,"Shamanist Rites of Spring, Nurturing of the Gods of the Temple (Second Day)"
+541,Ritual527a,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,
+542,Ritual527b,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,
+543,Ritual528,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Thanksgiving Rite
+544,Ritual529,L. Schram,1957,The Monguors of the Kansu-Tibetan frontier: Part II. their religious life,Mongor,Spirits Expelled from the Villages
+545,Ritual530,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,Name-Giving
+546,Ritual531,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,New Year's Morning
+547,Ritual532,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,Fire-Pouring
+548,Ritual533,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,The Sowing and Harvest Thanksgiving Festivals
+549,Ritual534,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,The Animal Consecration
+550,Ritual535,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,The Washing of the Sick
+551,Ritual536,D. Schröder,1952-1953,On the religion of the Tujen of the Sining Region (Koko Nor),Mongor,The House Purification
+552,Ritual537,L. Schram,1932,Marriage among the T'u-jen of Kansu (China),Mongor,Marriage Ceremony
+553,Ritual538,C. Achebe,1986,The world of the Ogbanje,Igbo,Healing Ritual
+554,Ritual539,C. Achebe,1986,The world of the Ogbanje,Igbo,Ogbanje Devotee's Initiation
+555,Ritual540,C. Achebe,1986,The world of the Ogbanje,Igbo,Water Spouse
+556,Ritual541,G. T. Basden,,Among the Ibos of Nigeria: an account of the curious and interesting habits,Igbo,
+557,Ritual542,G. T. Basden,,Among the Ibos of Nigeria: an account of the curious and interesting habits,Igbo,
+558,Ritual543,G. T. Basden,1966,Niger Ibos: a description of the primitive life,Igbo,Purification
+559,Ritual544,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,Begging the Dead
+560,Ritual545,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,Offering of Kola Nuts
+561,Ritual546,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,Sacrifice
+562,Ritual547,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,
+563,Ritual548,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,
+564,Ritual549,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,
+565,Ritual550,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,
+566,Ritual551,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,
+567,Ritual552,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,The New Yam Festival of Young Men of Isele-Awada
+568,Ritual553,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,Killers' Feast
+569,Ritual554,R. N. Henderson,1972,The king in every man: evolutionary trends in Onitsha Ibo society and culture,Igbo,King's Annual Emergence
+570,Ritual555,J. H. M. Beattie,1961,Nyoro mortuary rites,Banyoro,"Feast, Mortuary Rite"
+571,Ritual556,J. Nyakatura,1970,Aspects of Bunyoro custom and tradition,Banyoro,Sweeping Out the house for the Baby Ceremony
+572,Ritual557,J. Nyakatura,1970,Aspects of Bunyoro custom and tradition,Banyoro,Making the Child Sit Up
+573,Ritual558,J. Nyakatura,1970,Aspects of Bunyoro custom and tradition,Banyoro,Blood Brotherhood
+574,Ritual559,J. Nyakatura,1970,Aspects of Bunyoro custom and tradition,Banyoro,Blood Brotherhood
+575,Ritual560,J. Nyakatura,1970,Aspects of Bunyoro custom and tradition,Banyoro,
+576,Ritual561,J. Nyakatura,1970,Aspects of Bunyoro custom and tradition,Banyoro,Spirit Possession Ceremony
+577,Ritual562,J. Nyakatura,1970,Aspects of Bunyoro custom and tradition,Banyoro,Initiation Feast
+578,Ritual563,J. Roscoe,1923,The Bakitara or Bunyoro: the first part of the report of the Mackie Ethnological Expedition to Central Africa,Banyoro,
+579,Ritual564,J. Roscoe,1923,The Bakitara or Bunyoro: the first part of the report of the Mackie Ethnological Expedition to Central Africa,Banyoro,
+580,Ritual565,J. Roscoe,1923,The Bakitara or Bunyoro: the first part of the report of the Mackie Ethnological Expedition to Central Africa,Banyoro,Ceremonies of the Tomb
+581,Ritual566,E. M. Loeb,,Mentawei religious cult and Nooy-Palm,Mentawaians,
+582,Ritual567,C. H. M. Nooy-Palm,1968,The culture of the Pagai Islands and Sipora Mentawei,Mentawaians,"Punèn Puénégètat, The Initiation of New Members of the Uma"
+583,Ritual568,C. H. M. Nooy-Palm,1968,Mentawei social organization,Mentawaians,Big Punen
+584,Ritual569,E. M. Loeb,1928,Mentawei social organization,Mentawaians,"Small Punen, or Lia"
+585,Ritual570,R. Schefold,1980,"The Sacrifices of the Sakuddei (Mentawai Archipelago, Western Indonesia): an attempt at classification",Mentawaians,Daily Meal
+586,Ritual571,R. Schefold,1980,"The Sacrifices of the Sakuddei (Mentawai Archipelago, Western Indonesia): an attempt at classification",Mentawaians,The Bringing in of the Ancestors
+587,Ritual572,M. J. Harner,1973,The Jívaro: people of the sacred waterfalls,Jivaro,The Arutam Soul
+588,Ritual573,M. J. Harner,1973,The Jívaro: people of the sacred waterfalls,Jivaro,Arutam Soul Seeking
+589,Ritual574,R. Redfield,1962,Chan Kom: a Maya village,Maya,The Dinner of the Milpa
+590,Ritual575,R. Redfield,1962,Chan Kom: a Maya village,Maya,The Dinner of the Bees
+591,Ritual576,R. Redfield,1962,Chan Kom: a Maya village,Maya,Fixing the Place for the Hives
+592,Ritual577,R. Redfield,1962,Chan Kom: a Maya village,Maya,The New House Ceremony
+593,Ritual578,R. Redfield,1962,Chan Kom: a Maya village,Maya,The Rain Ceremony
+594,Ritual579,R. Redfield,1962,Chan Kom: a Maya village,Maya,
+595,Ritual580,R. Redfield,1962,Chan Kom: a Maya village,Maya,The New Corn Ceremony
+596,Ritual581,R. Redfield,1962,Chan Kom: a Maya village,Maya,The Novena
+597,Ritual582,R. Redfield,1962,Chan Kom: a Maya village,Maya,Prayers for the Dead
+598,Ritual583,R. Redfield,1962,Chan Kom: a Maya village,Maya,
+599,Ritual584,R. Redfield,1962,Chan Kom: a Maya village,Maya,"Noevna on the Name Day, Novenarios for Patron Saint"
+600,Ritual585,R. Redfield,1962,Chan Kom: a Maya village,Maya,"Dza Akab, Novenarios for Patron Saint"
+601,Ritual586,R. Redfield,1962,Chan Kom: a Maya village,Maya,"Hadz Pach, Novenarios for Patron Saint"
+602,Ritual587,R. Redfield,1962,Chan Kom: a Maya village,Maya,The Santiguar Curing Ritual
+603,Ritual588,R. Redfield,1962,Chan Kom: a Maya village,Maya,Kex
+604,Ritual589,R. Redfield,1962,Chan Kom: a Maya village,Maya,Loh-Cahtali
+605,Ritual590,R. Redfield,1962,Chan Kom: a Maya village,Maya,Pledge of Compadre Relationship
+606,Ritual591,R. Redfield,1962,Chan Kom: a Maya village,Maya,Formal Baptism Ceremony
+607,Ritual592,R. Redfield,1962,Chan Kom: a Maya village,Maya,The Hand Washing Ceremony
+608,Ritual593,R. Redfield,1962,Chan Kom: a Maya village,Maya,Hetzmek Ritual
+609,Ritual594,R. Redfield,1962,Chan Kom: a Maya village,Maya,Days of the Dead
+610,Ritual595,R. Redfield,1962,Chan Kom: a Maya village,Maya,Taking the Bones from the Grave
+611,Ritual596,R. Redfield,1962,Chan Kom: a Maya village,Maya,"Marriage, Return to the Bridal Party"
+612,Ritual597,R. Redfield,1962,Chan Kom: a Maya village,Maya,Catholic Wedding Ceremony
+613,Ritual598,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,
+614,Ritual599,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,
+615,Ritual600,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,
+616,Ritual601,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,
+617,Ritual602,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,
+618,Ritual603,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,
+619,Ritual604,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,
+620,Ritual605,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,Green Corn Dance
+621,Ritual606,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,Feather Dance
+622,Ritual607,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,Catfish Dance
+623,Ritual608,J. O. I. Buswell,1989 [1979],Florida Seminole religious ritual: resistance and change,Seminole,Sheep Dance
+624,Ritual609,J. M. J. M. Schultz,1999,The Seminole Baptist churches of Oklahoma: maintaining a traditional community,Seminole,Prayer Meeting
+625,Ritual610,J. M. J. M. Schultz,1999,The Seminole Baptist churches of Oklahoma: maintaining a traditional community,Seminole,
+626,Ritual611,J. M. J. M. Schultz,1999,The Seminole Baptist churches of Oklahoma: maintaining a traditional community,Seminole,Fourth Sunday Meetings
+627,Ritual612,J. M. J. M. Schultz,1999,The Seminole Baptist churches of Oklahoma: maintaining a traditional community,Seminole,The Fasting Service
+628,Ritual613,J. M. J. M. Schultz,1999,The Seminole Baptist churches of Oklahoma: maintaining a traditional community,Seminole,Communion Service
+629,Ritual614,A. M. Lutfiyya,1966,Baytiin a Jordanian village: a study of social institutions and social change in a folk community,Palestinians,The Little Festival
+630,Ritual615,A. M. Lutfiyya,1966,Baytiin a Jordanian village: a study of social institutions and social change in a folk community,Palestinians,Little and Great Festival
+631,Ritual616,A. M. Lutfiyya,1966,Baytiin a Jordanian village: a study of social institutions and social change in a folk community,Palestinians,Procession to Ceremony
+632,Ritual617,T. Canaan,1927,Mohammedan saints and sanctuaries in Palestine,Palestinians,Procession
+633,Ritual618,T. Canaan,1927,Mohammedan saints and sanctuaries in Palestine,Palestinians,Processions
+634,Ritual619a,M. Biesele,1978,Religion and folklore,Palestinians,Dances
+635,Ritual619b,L. Marshall,,The !Kung Bushmen of the Kalahari Desert,San,
+636,Ritual619c,M. Shostak,,Nisa: the life and words of a !Kung woman,Palestinians,
+637,Ritual620,R. B. Lee,1979,"The !Kung San: men, women, and work in a foraging society",San,Buck Ceremony
+638,Ritual621,G. A. Dorsey,1899,The Ocimbanda or witch-doctor of the Ovimbundu of Portuguese southwest Africa,Ovimbundu,Divination
+639,Ritual622,W. D. Hambly,1934,The Ovimbundu of Angola,Ovimbundu,Curing Ritual
+640,Ritual623,W. D. Hambly,1934,The Ovimbundu of Angola,Ovimbundu,Rain Making
+641,Ritual624,W. D. Hambly,1934,The Ovimbundu of Angola,Ovimbundu,Ceremonial Fire
+642,Ritual625,W. D. Hambly,1934,"Occupational ritual, belief, and custom among the Ovimbundu",Ovimbundu,Osaka
+643,Ritual626,M. C. Jest,1960,Religious beliefs of the Lepchas in the Kalimpong District (West Bengal),Lepcha,Rǔm-fat Ceremony
+644,Ritual627,M. C. Jest,1960,Religious beliefs of the Lepchas in the Kalimpong District (West Bengal),Lepcha,Ox Sacrifice
+645,Ritual628,J. Morris,1938,Living with Lepchas: a book about the Sikkim Himalayas,Lepcha,Festival in Honour of Kinchinjunga
+646,Ritual629,J. Morris,1938,Living with Lepchas: a book about the Sikkim Himalayas,Lepcha,Annual War Dance
+647,Ritual630,J. Morris,1938,Living with Lepchas: a book about the Sikkim Himalayas,Lepcha,Day Prior to Ceremony (Toad Figure)
+648,Ritual631,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 1,Lepcha,House Building Ceremonies
+649,Ritual632,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 2,Lepcha,House Purification
+650,Ritual633,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 3,Lepcha,The Carpenter's Prayer
+651,Ritual634,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 4,Lepcha,The Carpenter's Ceremony for Protection of the House
+652,Ritual635,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 5,Lepcha,Annual Sacrifice of Bull to lí rŭm
+653,Ritual636,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 6,Lepcha,Initial Ceremony to Mung
+654,Ritual637,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 7,Lepcha,Ceremonies to the mă yel Being
+655,Ritual638,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 8,Lepcha,Biannual Ceremony of the Tamgsangmu pŭ tsho
+656,Ritual639,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 9,Lepcha,Biannual Ceremony of Female pŭ tsho
+657,Ritual640,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 10,Lepcha,Ceremony for the New-born Child
+658,Ritual641,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 11,Lepcha,First Wedding Ceremony: pǎ nol
+659,Ritual642,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 12,Lepcha,Second Wedding Ceremony: a shek
+660,Ritual643,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 13,Lepcha,Third Wedding Ceremony
+661,Ritual644,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 14,Lepcha,The Common Meal
+662,Ritual645,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 15,Lepcha,The Ceremonial Figure of the Old Year
+663,Ritual646,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 16,Lepcha,The Second Day of the New Year
+664,Ritual647,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 17,Lepcha,The Initial Ceremony
+665,Ritual648,H. Siiger,1967,The Lepchas: culture and religion of a Himalayan people part 18,Lepcha,The Sacrifice of the Yak at the hla thu Shrine
+666,Ritual649,F. Barth,1965,Political leadership among Swat Pathans,Pashtun,Haircutting Ceremony
+667,Ritual650,K. Ferdinand,1982,Marriage among the Pakhtun nomads of eastern Afghanistan,Pashtun,The Ceremony of Going and Fetching
+668,Ritual651,H. H. Vreeland,1973,Mongol community and kinship structure,Mongol,Name Giving

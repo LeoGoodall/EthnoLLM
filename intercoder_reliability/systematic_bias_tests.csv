@@ -1,0 +1,7 @@
+feature,feature_label,chi_square,p_value,significant,interpretation
+singing,Synchronous Singing,12.19047619047619,4.803411999818712e-4,TRUE,Systematic bias detected
+chanting,Synchronous Chanting,12.16842105263158,4.8605434134768664e-4,TRUE,Systematic bias detected
+praying,Synchronous Praying,24.025,9.509294351575054e-7,TRUE,Systematic bias detected
+marching,Synchronous Marching,3.6923076923076925,0.05466393589167518,FALSE,No systematic bias
+dancing,Synchronous Dancing,14.79245283018868,1.2001485901520017e-4,TRUE,Systematic bias detected
+generic_mvmt,Synchronous Generic Movement,36.327044025157235,1.6683271751956362e-9,TRUE,Systematic bias detected

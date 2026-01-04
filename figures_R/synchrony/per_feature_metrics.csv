@@ -1,0 +1,109 @@
+Feature,FeatureName,Precision,Recall,F1,ModelBase,Condition
+singing_human,Synchronous Singing,0.8529411764705882,0.15508021390374332,0.26244343891402716,claudesonnet45,mtp
+chanting_human,Synchronous Chanting and Intoning,0.5256410256410257,0.37962962962962965,0.44086021505376344,claudesonnet45,mtp
+praying_human,Synchronous Praying,0.4423076923076923,0.6133333333333333,0.5139664804469273,claudesonnet45,mtp
+marching_human,Synchronous Marching,0.2641509433962264,0.56,0.358974358974359,claudesonnet45,mtp
+dancing_human,Synchronous Dancing,0.8791946308724832,0.7197802197802198,0.7915407854984894,claudesonnet45,mtp
+generic_mvmt_human,Synchronous Generic Movement,0.4186046511627907,0.27906976744186046,0.33488372093023255,claudesonnet45,mtp
+singing_human,Synchronous Singing,0.714975845410628,0.7914438502673797,0.7512690355329948,claudesonnet45,baseline
+chanting_human,Synchronous Chanting and Intoning,0.3246753246753247,0.6944444444444444,0.44247787610619466,claudesonnet45,baseline
+praying_human,Synchronous Praying,0.36666666666666664,0.5866666666666667,0.45128205128205123,claudesonnet45,baseline
+marching_human,Synchronous Marching,0.1111111111111111,0.84,0.19626168224299065,claudesonnet45,baseline
+dancing_human,Synchronous Dancing,0.7807486631016043,0.8021978021978022,0.7913279132791329,claudesonnet45,baseline
+generic_mvmt_human,Synchronous Generic Movement,0.30990415335463256,0.751937984496124,0.43891402714932126,claudesonnet45,baseline
+singing_human,Synchronous Singing,0.8888888888888888,0.25668449197860965,0.3983402489626556,deepseekv31671b,ensemble_mtp
+chanting_human,Synchronous Chanting and Intoning,0.2857142857142857,0.01834862385321101,0.034482758620689655,deepseekv31671b,ensemble_mtp
+praying_human,Synchronous Praying,0.3,0.12,0.17142857142857143,deepseekv31671b,ensemble_mtp
+marching_human,Synchronous Marching,0.3125,0.6,0.4109589041095891,deepseekv31671b,ensemble_mtp
+dancing_human,Synchronous Dancing,0.6122448979591837,0.6593406593406593,0.6349206349206349,deepseekv31671b,ensemble_mtp
+generic_mvmt_human,Synchronous Generic Movement,0.42857142857142855,0.13953488372093023,0.2105263157894737,deepseekv31671b,ensemble_mtp
+singing_human,Synchronous Singing,0.8333333333333334,0.18716577540106952,0.3056768558951965,deepseekv31671b,baseline
+chanting_human,Synchronous Chanting and Intoning,0.5538461538461539,0.3302752293577982,0.41379310344827586,deepseekv31671b,baseline
+praying_human,Synchronous Praying,0.7333333333333333,0.14666666666666667,0.24444444444444444,deepseekv31671b,baseline
+marching_human,Synchronous Marching,0.3055555555555556,0.44,0.36065573770491804,deepseekv31671b,baseline
+dancing_human,Synchronous Dancing,0.8918918918918919,0.3626373626373626,0.515625,deepseekv31671b,baseline
+generic_mvmt_human,Synchronous Generic Movement,0.3888888888888889,0.10852713178294573,0.1696969696969697,deepseekv31671b,baseline
+singing_human,Synchronous Singing,0.9056603773584906,0.25668449197860965,0.4000000000000001,deepseekv31671b,mtp
+chanting_human,Synchronous Chanting and Intoning,0.3333333333333333,0.01834862385321101,0.034782608695652174,deepseekv31671b,mtp
+praying_human,Synchronous Praying,0.34615384615384615,0.12,0.1782178217821782,deepseekv31671b,mtp
+marching_human,Synchronous Marching,0.2,0.68,0.3090909090909091,deepseekv31671b,mtp
+dancing_human,Synchronous Dancing,0.6376811594202898,0.4835164835164835,0.55,deepseekv31671b,mtp
+generic_mvmt_human,Synchronous Generic Movement,0.39705882352941174,0.20930232558139536,0.2741116751269036,deepseekv31671b,mtp
+singing_human,Synchronous Singing,0.8842975206611571,0.5721925133689839,0.6948051948051949,gpt5nano,mtp
+chanting_human,Synchronous Chanting and Intoning,0.5826086956521739,0.6146788990825688,0.5982142857142857,gpt5nano,mtp
+praying_human,Synchronous Praying,0.42528735632183906,0.49333333333333335,0.45679012345679015,gpt5nano,mtp
+marching_human,Synchronous Marching,0.2077922077922078,0.64,0.3137254901960784,gpt5nano,mtp
+dancing_human,Synchronous Dancing,0.8823529411764706,0.6593406593406593,0.7547169811320754,gpt5nano,mtp
+generic_mvmt_human,Synchronous Generic Movement,0.43103448275862066,0.3875968992248062,0.40816326530612246,gpt5nano,mtp
+singing_human,Synchronous Singing,0.7318840579710145,0.5401069518716578,0.6215384615384616,gpt5nano,baseline
+chanting_human,Synchronous Chanting and Intoning,0.38974358974358975,0.6972477064220184,0.5,gpt5nano,baseline
+praying_human,Synchronous Praying,0.29239766081871343,0.6666666666666666,0.4065040650406504,gpt5nano,baseline
+marching_human,Synchronous Marching,0.18867924528301888,0.8,0.30534351145038174,gpt5nano,baseline
+dancing_human,Synchronous Dancing,0.8114754098360656,0.5439560439560439,0.6513157894736842,gpt5nano,baseline
+generic_mvmt_human,Synchronous Generic Movement,0.42483660130718953,0.5038759689922481,0.46099290780141844,gpt5nano,baseline
+singing_human,Synchronous Singing,0.9142857142857143,0.6844919786096256,0.7828746177370031,gptoss120b,ensemble_mtp
+chanting_human,Synchronous Chanting and Intoning,0.746268656716418,0.45871559633027525,0.5681818181818181,gptoss120b,ensemble_mtp
+praying_human,Synchronous Praying,0.6521739130434783,0.2,0.30612244897959184,gptoss120b,ensemble_mtp
+marching_human,Synchronous Marching,0.2857142857142857,0.72,0.409090909090909,gptoss120b,ensemble_mtp
+dancing_human,Synchronous Dancing,0.9047619047619048,0.7307692307692307,0.8085106382978723,gptoss120b,ensemble_mtp
+generic_mvmt_human,Synchronous Generic Movement,0.5357142857142857,0.23255813953488372,0.32432432432432434,gptoss120b,ensemble_mtp
+singing_human,Synchronous Singing,0.7951807228915663,0.7058823529411765,0.7478753541076487,gptoss120b,baseline
+chanting_human,Synchronous Chanting and Intoning,0.42857142857142855,0.44036697247706424,0.43438914027149317,gptoss120b,baseline
+praying_human,Synchronous Praying,0.2978723404255319,0.37333333333333335,0.33136094674556216,gptoss120b,baseline
+marching_human,Synchronous Marching,0.296875,0.76,0.42696629213483145,gptoss120b,baseline
+dancing_human,Synchronous Dancing,0.8888888888888888,0.6593406593406593,0.7570977917981072,gptoss120b,baseline
+generic_mvmt_human,Synchronous Generic Movement,0.4329896907216495,0.32558139534883723,0.37168141592920356,gptoss120b,baseline
+singing_human,Synchronous Singing,0.9136690647482014,0.679144385026738,0.7791411042944785,gptoss120b,mtp
+chanting_human,Synchronous Chanting and Intoning,0.7066666666666667,0.48623853211009177,0.5760869565217391,gptoss120b,mtp
+praying_human,Synchronous Praying,0.6785714285714286,0.25333333333333335,0.36893203883495146,gptoss120b,mtp
+marching_human,Synchronous Marching,0.2857142857142857,0.72,0.409090909090909,gptoss120b,mtp
+dancing_human,Synchronous Dancing,0.8972602739726028,0.7197802197802198,0.7987804878048781,gptoss120b,mtp
+generic_mvmt_human,Synchronous Generic Movement,0.4925373134328358,0.2558139534883721,0.336734693877551,gptoss120b,mtp
+singing_human,Synchronous Singing,0,0,0,llama33b,ensemble_mtp
+chanting_human,Synchronous Chanting and Intoning,0.21956521739130436,0.926605504587156,0.35500878734622143,llama33b,ensemble_mtp
+praying_human,Synchronous Praying,0.16666666666666666,0.64,0.2644628099173554,llama33b,ensemble_mtp
+marching_human,Synchronous Marching,0.5,0.08,0.13793103448275865,llama33b,ensemble_mtp
+dancing_human,Synchronous Dancing,0.627906976744186,0.2967032967032967,0.40298507462686567,llama33b,ensemble_mtp
+generic_mvmt_human,Synchronous Generic Movement,0.26791277258566976,0.6666666666666666,0.38222222222222224,llama33b,ensemble_mtp
+singing_human,Synchronous Singing,0.32854578096947934,0.9786096256684492,0.49193548387096775,llama33b,baseline
+chanting_human,Synchronous Chanting and Intoning,0.1989051094890511,1,0.33181126331811267,llama33b,baseline
+praying_human,Synchronous Praying,0.13577981651376148,0.9866666666666667,0.23870967741935487,llama33b,baseline
+marching_human,Synchronous Marching,0.044722719141323794,1,0.08561643835616439,llama33b,baseline
+dancing_human,Synchronous Dancing,0.3217550274223035,0.967032967032967,0.4828532235939644,llama33b,baseline
+generic_mvmt_human,Synchronous Generic Movement,0.22939068100358423,0.9922480620155039,0.3726346433770015,llama33b,baseline
+singing_human,Synchronous Singing,0,0,0,llama33b,mtp
+chanting_human,Synchronous Chanting and Intoning,0.21841541755888652,0.9357798165137615,0.35416666666666674,llama33b,mtp
+praying_human,Synchronous Praying,0.1543859649122807,0.5866666666666667,0.24444444444444444,llama33b,mtp
+marching_human,Synchronous Marching,0.5,0.08,0.13793103448275865,llama33b,mtp
+dancing_human,Synchronous Dancing,0.6235294117647059,0.29120879120879123,0.3970037453183521,llama33b,mtp
+generic_mvmt_human,Synchronous Generic Movement,0.25835866261398177,0.6589147286821705,0.3711790393013101,llama33b,mtp
+singing_human,Synchronous Singing,0.4803921568627451,0.2620320855614973,0.3391003460207612,perplexity,mtp
+chanting_human,Synchronous Chanting and Intoning,0.25,0.3669724770642202,0.29739776951672864,perplexity,mtp
+praying_human,Synchronous Praying,0.24444444444444444,0.29333333333333333,0.26666666666666666,perplexity,mtp
+marching_human,Synchronous Marching,0.0963855421686747,0.32,0.14814814814814814,perplexity,mtp
+dancing_human,Synchronous Dancing,0.5308641975308642,0.4777777777777778,0.5029239766081872,perplexity,mtp
+generic_mvmt_human,Synchronous Generic Movement,0.23423423423423423,0.20155038759689922,0.21666666666666667,perplexity,mtp
+singing_human,Synchronous Singing,0.49142857142857144,0.45989304812834225,0.47513812154696133,perplexity,baseline
+chanting_human,Synchronous Chanting and Intoning,0.22488038277511962,0.43119266055045874,0.2955974842767296,perplexity,baseline
+praying_human,Synchronous Praying,0.23931623931623933,0.37333333333333335,0.2916666666666667,perplexity,baseline
+marching_human,Synchronous Marching,0.12345679012345678,0.4,0.18867924528301885,perplexity,baseline
+dancing_human,Synchronous Dancing,0.47126436781609193,0.45555555555555555,0.4632768361581921,perplexity,baseline
+generic_mvmt_human,Synchronous Generic Movement,0.2537313432835821,0.3953488372093023,0.3090909090909091,perplexity,baseline
+singing_human,Synchronous Singing,0.5706214689265536,0.5401069518716578,0.554945054945055,qwen3,ensemble_mtp
+chanting_human,Synchronous Chanting and Intoning,0.24345549738219896,0.8532110091743119,0.3788187372708757,qwen3,ensemble_mtp
+praying_human,Synchronous Praying,0.2625,0.84,0.39999999999999997,qwen3,ensemble_mtp
+marching_human,Synchronous Marching,0.13664596273291926,0.88,0.23655913978494628,qwen3,ensemble_mtp
+dancing_human,Synchronous Dancing,0.7578947368421053,0.7912087912087912,0.7741935483870969,qwen3,ensemble_mtp
+generic_mvmt_human,Synchronous Generic Movement,0.2887537993920973,0.7364341085271318,0.4148471615720524,qwen3,ensemble_mtp
+singing_human,Synchronous Singing,0.6384180790960452,0.6042780748663101,0.6208791208791209,qwen3,baseline
+chanting_human,Synchronous Chanting and Intoning,0.32038834951456313,0.6055045871559633,0.4190476190476191,qwen3,baseline
+praying_human,Synchronous Praying,0.22568093385214008,0.7733333333333333,0.3493975903614458,qwen3,baseline
+marching_human,Synchronous Marching,0.1282051282051282,0.8,0.22099447513812154,qwen3,baseline
+dancing_human,Synchronous Dancing,0.7311827956989247,0.7472527472527473,0.7391304347826086,qwen3,baseline
+generic_mvmt_human,Synchronous Generic Movement,0.2711864406779661,0.7441860465116279,0.3975155279503106,qwen3,baseline
+singing_human,Synchronous Singing,0.5738636363636364,0.5401069518716578,0.5564738292011019,qwen3,mtp
+chanting_human,Synchronous Chanting and Intoning,0.24607329842931938,0.8623853211009175,0.3828920570264766,qwen3,mtp
+praying_human,Synchronous Praying,0.26582278481012656,0.84,0.40384615384615385,qwen3,mtp
+marching_human,Synchronous Marching,0.1375,0.88,0.23783783783783785,qwen3,mtp
+dancing_human,Synchronous Dancing,0.7578947368421053,0.7912087912087912,0.7741935483870969,qwen3,mtp
+generic_mvmt_human,Synchronous Generic Movement,0.2887537993920973,0.7364341085271318,0.4148471615720524,qwen3,mtp

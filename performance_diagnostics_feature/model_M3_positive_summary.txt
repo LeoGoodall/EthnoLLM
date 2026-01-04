@@ -1,0 +1,94 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: correct ~ model + condition + model:condition + z_log_char_length +  
+    z_fog + z_mtld + region + z_year + feature_type + z_feature_desc_length +  
+    z_feature_base_rate + (1 | ritual_number) + (1 | feature_variable)
+   Data: positive_data
+Control: glmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 50000))
+
+      AIC       BIC    logLik -2*log(L)  df.resid 
+ 149435.3  149759.3  -74684.6  149369.3    135732 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-5.4347 -0.6669 -0.2774  0.6879  6.9670 
+
+Random effects:
+ Groups           Name        Variance Std.Dev.
+ ritual_number    (Intercept) 0.09822  0.3134  
+ feature_variable (Intercept) 0.68131  0.8254  
+Number of obs: 135765, groups:  ritual_number, 535; feature_variable, 111
+
+Fixed effects:
+                                           Estimate Std. Error z value Pr(>|z|)
+(Intercept)                                 1.40221    0.10991  12.758  < 2e-16
+modeldeepseekv31671b                       -0.32641    0.03448  -9.468  < 2e-16
+modelgpt5nano                               0.03040    0.03381   0.899 0.368659
+modelllama33b                              -0.10539    0.03380  -3.118 0.001820
+modelclaudesonnet45                         0.09763    0.03389   2.881 0.003967
+modelqwen3                                 -0.16494    0.03380  -4.880 1.06e-06
+conditionmtp                                0.09238    0.03457   2.672 0.007540
+conditionensemble_mtp                       0.15382    0.03463   4.442 8.90e-06
+z_log_char_length                           0.07930    0.01525   5.199 2.00e-07
+z_fog                                      -0.02747    0.01599  -1.718 0.085855
+z_mtld                                      0.01378    0.01554   0.887 0.375286
+regionAsia                                 -0.04176    0.04589  -0.910 0.362846
+regionAustralia                            -0.06669    0.15145  -0.440 0.659677
+regionEurope                               -0.06129    0.08171  -0.750 0.453209
+regionM.America&Carib                      -0.04133    0.05585  -0.740 0.459343
+regionMid.East                              0.08311    0.10312   0.806 0.420274
+regionN. America                           -0.03797    0.06374  -0.596 0.551328
+regionOceania                              -0.12318    0.05681  -2.168 0.030133
+regionS. America                            0.07858    0.05754   1.366 0.172070
+z_year                                      0.01297    0.01620   0.801 0.423337
+feature_typemulticlass                     -2.28929    0.62506  -3.663 0.000250
+z_feature_desc_length                       0.02240    0.07844   0.286 0.775227
+z_feature_base_rate                         0.09014    0.19033   0.474 0.635781
+modeldeepseekv31671b:conditionmtp          -0.22553    0.04919  -4.584 4.55e-06
+modelgpt5nano:conditionmtp                 -0.24851    0.04871  -5.102 3.36e-07
+modelllama33b:conditionmtp                 -1.13509    0.04961 -22.882  < 2e-16
+modelclaudesonnet45:conditionmtp           -0.34228    0.04884  -7.009 2.41e-12
+modelqwen3:conditionmtp                    -0.45449    0.04954  -9.174  < 2e-16
+modeldeepseekv31671b:conditionensemble_mtp -0.18516    0.05081  -3.644 0.000268
+modelllama33b:conditionensemble_mtp        -1.33759    0.04969 -26.916  < 2e-16
+modelqwen3:conditionensemble_mtp           -0.53269    0.05481  -9.719  < 2e-16
+                                              
+(Intercept)                                ***
+modeldeepseekv31671b                       ***
+modelgpt5nano                                 
+modelllama33b                              ** 
+modelclaudesonnet45                        ** 
+modelqwen3                                 ***
+conditionmtp                               ** 
+conditionensemble_mtp                      ***
+z_log_char_length                          ***
+z_fog                                      .  
+z_mtld                                        
+regionAsia                                    
+regionAustralia                               
+regionEurope                                  
+regionM.America&Carib                         
+regionMid.East                                
+regionN. America                              
+regionOceania                              *  
+regionS. America                              
+z_year                                        
+feature_typemulticlass                     ***
+z_feature_desc_length                         
+z_feature_base_rate                           
+modeldeepseekv31671b:conditionmtp          ***
+modelgpt5nano:conditionmtp                 ***
+modelllama33b:conditionmtp                 ***
+modelclaudesonnet45:conditionmtp           ***
+modelqwen3:conditionmtp                    ***
+modeldeepseekv31671b:conditionensemble_mtp ***
+modelllama33b:conditionensemble_mtp        ***
+modelqwen3:conditionensemble_mtp           ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+fit warnings:
+fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+optimizer (bobyqa) convergence code: 0 (OK)
+Model failed to converge with max|grad| = 0.0043241 (tol = 0.002, component 1)
+

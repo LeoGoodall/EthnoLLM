@@ -1,0 +1,7 @@
+metric,value
+Mean human inter-coder kappa,0.5730841216655848
+Features with substantial agreement (κ ≥ 0.8),1
+Features with poor agreement (κ < 0.4),2
+Correlation: human kappa vs LLM F1,0.6113736626435757
+"Mean LLM F1 (easy features, κ ≥ 0.8)",0.573473204767336
+"Mean LLM F1 (difficult features, κ < 0.4)",0.3075031273789686

@@ -1,0 +1,7 @@
+feature,feature_label,total_cases,agreements,disagreements,disagreement_rate,coder1_only,coder2_only
+chanting,Synchronous Chanting,598,503,95,0.1588628762541806,65,30
+dancing,Synchronous Dancing,585,532,53,0.0905982905982906,41,12
+generic_mvmt,Synchronous Generic Movement,588,429,159,0.27040816326530615,118,41
+marching,Synchronous Marching,600,561,39,0.065,26,13
+praying,Synchronous Praying,591,551,40,0.0676818950930626,36,4
+singing,Synchronous Singing,606,585,21,0.034653465346534656,19,2

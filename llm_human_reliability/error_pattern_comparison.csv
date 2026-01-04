@@ -1,0 +1,49 @@
+name1,name2,false_positive_rate,false_negative_rate,both_present,both_absent,disagree_fp,disagree_fn,feature,comparison_type,annotator,feature_label,fp_fn_ratio
+Coder 1,Coder 2,0.004914004914004914,0.09547738693467336,180,405,2,19,singing,Human-Human,Human-Human,Synchronous Singing,0.051467735678261996
+Coder 1,Coder 2,0.06342494714587738,0.52,60,443,30,65,chanting,Human-Human,Human-Human,Synchronous Chanting,0.12197105220361033
+Coder 1,Coder 2,0.0078125,0.45569620253164556,43,508,4,36,praying,Human-Human,Human-Human,Synchronous Praying,0.017144097222222224
+Coder 1,Coder 2,0.023172905525846704,0.6666666666666666,13,548,13,26,marching,Human-Human,Human-Human,Synchronous Marching,0.03475935828877006
+Coder 1,Coder 2,0.03125,0.20398009950248755,160,372,12,41,dancing,Human-Human,Human-Human,Synchronous Dancing,0.15320121951219512
+Coder 1,Coder 2,0.0985576923076923,0.686046511627907,54,375,41,118,generic_mvmt,Human-Human,Human-Human,Synchronous Generic Movement,0.14366036505867014
+Ground Truth,claudesonnet45,0.15649867374005305,0.20855614973262032,148,318,59,39,singing,LLM-Human,claudesonnet45,Synchronous Singing,0.7503910766510236
+Ground Truth,claudesonnet45,0.34743875278396436,0.3055555555555556,75,293,156,33,chanting,LLM-Human,claudesonnet45,Synchronous Chanting,1.1370722818384287
+Ground Truth,claudesonnet45,0.15866388308977036,0.41333333333333333,44,403,76,31,praying,LLM-Human,claudesonnet45,Synchronous Praying,0.3838642332817025
+Ground Truth,claudesonnet45,0.31226765799256506,0.16,21,370,168,4,marching,LLM-Human,claudesonnet45,Synchronous Marching,1.9516728624535316
+Ground Truth,claudesonnet45,0.10789473684210527,0.1978021978021978,146,339,41,36,dancing,LLM-Human,claudesonnet45,Synchronous Dancing,0.54546783625731
+Ground Truth,claudesonnet45,0.49884526558891457,0.24806201550387597,97,217,216,32,generic_mvmt,LLM-Human,claudesonnet45,Synchronous Generic Movement,2.010969976905312
+Ground Truth,deepseekv31671b,0.018518518518518517,0.8128342245989305,35,371,7,152,singing,LLM-Human,deepseekv31671b,Synchronous Singing,0.022782651072124755
+Ground Truth,deepseekv31671b,0.06430155210643015,0.6697247706422018,36,422,29,73,chanting,LLM-Human,deepseekv31671b,Synchronous Chanting,0.09601190656987517
+Ground Truth,deepseekv31671b,0.008350730688935281,0.8533333333333334,11,475,4,64,praying,LLM-Human,deepseekv31671b,Synchronous Praying,0.009786012526096032
+Ground Truth,deepseekv31671b,0.04638218923933209,0.56,11,514,25,14,marching,LLM-Human,deepseekv31671b,Synchronous Marching,0.08282533792737873
+Ground Truth,deepseekv31671b,0.02099737532808399,0.6373626373626373,66,373,8,116,dancing,LLM-Human,deepseekv31671b,Synchronous Dancing,0.03294415784233867
+Ground Truth,deepseekv31671b,0.05069124423963134,0.8914728682170543,14,412,22,115,generic_mvmt,LLM-Human,deepseekv31671b,Synchronous Generic Movement,0.05686235223402124
+Ground Truth,gpt5nano,0.09788359788359788,0.45989304812834225,101,341,37,86,singing,LLM-Human,gpt5nano,Synchronous Singing,0.21283991632828841
+Ground Truth,gpt5nano,0.2638580931263858,0.30275229357798167,76,332,119,33,chanting,LLM-Human,gpt5nano,Synchronous Chanting,0.871531277296244
+Ground Truth,gpt5nano,0.25260960334029225,0.3333333333333333,50,358,121,25,praying,LLM-Human,gpt5nano,Synchronous Praying,0.7578288100208768
+Ground Truth,gpt5nano,0.15955473098330242,0.2,20,453,86,5,marching,LLM-Human,gpt5nano,Synchronous Marching,0.7977736549165121
+Ground Truth,gpt5nano,0.06036745406824147,0.45604395604395603,99,358,23,83,dancing,LLM-Human,gpt5nano,Synchronous Dancing,0.132372007715903
+Ground Truth,gpt5nano,0.20276497695852536,0.49612403100775193,65,346,88,64,generic_mvmt,LLM-Human,gpt5nano,Synchronous Generic Movement,0.4086981566820277
+Ground Truth,gptoss120b,0.08994708994708994,0.29411764705882354,132,344,34,55,singing,LLM-Human,gptoss120b,Synchronous Singing,0.30582010582010577
+Ground Truth,gptoss120b,0.1419068736141907,0.5596330275229358,48,387,64,61,chanting,LLM-Human,gptoss120b,Synchronous Chanting,0.253571298753226
+Ground Truth,gptoss120b,0.13778705636743216,0.6266666666666667,28,413,66,47,praying,LLM-Human,gptoss120b,Synchronous Praying,0.21987296228845557
+Ground Truth,gptoss120b,0.08348794063079777,0.24,19,494,45,6,marching,LLM-Human,gptoss120b,Synchronous Marching,0.34786641929499074
+Ground Truth,gptoss120b,0.03937007874015748,0.34065934065934067,120,366,15,62,dancing,LLM-Human,gptoss120b,Synchronous Dancing,0.11557023114046228
+Ground Truth,gptoss120b,0.12672811059907835,0.6744186046511628,42,379,55,87,generic_mvmt,LLM-Human,gptoss120b,Synchronous Generic Movement,0.1879071984744955
+Ground Truth,llama33b,0.9894179894179894,0.0213903743315508,183,4,374,4,singing,LLM-Human,llama33b,Synchronous Singing,46.25529100529101
+Ground Truth,llama33b,0.9733924611973392,0,109,12,439,0,chanting,LLM-Human,llama33b,Synchronous Chanting,NA
+Ground Truth,llama33b,0.9832985386221295,0.013333333333333334,74,8,471,1,praying,LLM-Human,llama33b,Synchronous Praying,73.74739039665971
+Ground Truth,llama33b,0.9907235621521335,0,25,5,534,0,marching,LLM-Human,llama33b,Synchronous Marching,NA
+Ground Truth,llama33b,0.973753280839895,0.03296703296703297,176,10,371,6,dancing,LLM-Human,llama33b,Synchronous Dancing,29.53718285214348
+Ground Truth,llama33b,0.9907834101382489,0.007751937984496124,128,4,430,1,generic_mvmt,LLM-Human,llama33b,Synchronous Generic Movement,127.8110599078341
+Ground Truth,perplexity,0.23796791443850268,0.5401069518716578,86,285,89,101,singing,LLM-Human,perplexity,Synchronous Singing,0.44059405940594054
+Ground Truth,perplexity,0.3624161073825503,0.5688073394495413,47,285,162,62,chanting,LLM-Human,perplexity,Synchronous Chanting,0.6371508984628707
+Ground Truth,perplexity,0.18736842105263157,0.6266666666666667,28,386,89,47,praying,LLM-Human,perplexity,Synchronous Praying,0.2989921612541993
+Ground Truth,perplexity,0.13295880149812733,0.6,10,463,71,15,marching,LLM-Human,perplexity,Synchronous Marching,0.2215980024968789
+Ground Truth,perplexity,0.24274406332453827,0.5444444444444444,82,287,92,98,dancing,LLM-Human,perplexity,Synchronous Dancing,0.4458564428409887
+Ground Truth,perplexity,0.3488372093023256,0.6046511627906976,51,280,150,78,generic_mvmt,LLM-Human,perplexity,Synchronous Generic Movement,0.576923076923077
+Ground Truth,qwen3,0.1693121693121693,0.39572192513368987,113,314,64,74,singing,LLM-Human,qwen3,Synchronous Singing,0.4278564278564278
+Ground Truth,qwen3,0.31042128603104213,0.3944954128440367,66,311,140,43,chanting,LLM-Human,qwen3,Synchronous Chanting,0.7868818645903161
+Ground Truth,qwen3,0.4154488517745303,0.22666666666666666,58,280,199,17,praying,LLM-Human,qwen3,Synchronous Praying,1.832862581358222
+Ground Truth,qwen3,0.2523191094619666,0.2,20,403,136,5,marching,LLM-Human,qwen3,Synchronous Marching,1.261595547309833
+Ground Truth,qwen3,0.13123359580052493,0.25274725274725274,136,331,50,46,dancing,LLM-Human,qwen3,Synchronous Dancing,0.5192285746890335
+Ground Truth,qwen3,0.5944700460829493,0.2558139534883721,96,176,258,33,generic_mvmt,LLM-Human,qwen3,Synchronous Generic Movement,2.3238374528697108
