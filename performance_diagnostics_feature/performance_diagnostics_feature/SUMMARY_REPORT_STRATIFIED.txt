@@ -1,0 +1,63 @@
+===========================================================================
+PERFORMANCE DIAGNOSTICS: STRATIFIED PREDICTION-LEVEL ANALYSIS
+===========================================================================
+
+DATASET OVERVIEW
+---------------------------------------------------------------------------
+Total predictions: 872358
+Unique rituals: 535
+Unique features: 111
+Models evaluated: 6
+Conditions evaluated: 3
+Overall accuracy: 0.731
+Proportion of positive cases: 0.156
+
+STRATIFICATION
+---------------------------------------------------------------------------
+# A tibble: 2 × 3
+  stratum       n accuracy
+  <chr>     <int>    <dbl>
+1 Positive 135765    0.489
+2 Negative 736593    0.776
+
+FEATURE BASE RATE DISTRIBUTION
+---------------------------------------------------------------------------
+
+    Common (>50%) Moderate (20-50%)      Rare (5-20%)   Very rare (<5%) 
+               13                10                29                59 
+
+MODEL COMPARISON: POSITIVE STRATUM (Detection)
+---------------------------------------------------------------------------
+Variance Explained (R²):
+               Model R2_marginal R2_conditional  Stratum
+1           M1_Model  0.03622684      0.2993437 Positive
+2      M2_Model_Text  0.03843074      0.2988776 Positive
+3 M3_Model_Text_Task  0.22492033      0.3733931 Positive
+
+MODEL factors explain: 3.6% of variance (marginal R²)
+Adding TEXT factors increases to: 3.8% (gain: 0.2%)
+Adding TASK factors increases to: 22.5% (gain: 18.6%)
+Total variance explained (fixed + random): 37.3%
+
+MODEL COMPARISON: NEGATIVE STRATUM (Specificity)
+---------------------------------------------------------------------------
+Variance Explained (R²):
+               Model R2_marginal R2_conditional  Stratum
+1           M1_Model   0.2493526      0.5517907 Negative
+2      M2_Model_Text   0.2927502      0.5520173 Negative
+3 M3_Model_Text_Task   0.3478147      0.5237474 Negative
+
+MODEL factors explain: 24.9% of variance (marginal R²)
+Adding TEXT factors increases to: 29.3% (gain: 4.3%)
+Adding TASK factors increases to: 34.8% (gain: 5.5%)
+Total variance explained (fixed + random): 52.4%
+
+KEY FINDINGS
+---------------------------------------------------------------------------
+   - Positive cases (detection): 15.6% of data
+   - Negative cases (specificity): 84.4% of data
+   - Accuracy differs: Positive=0.49, Negative=0.78
+
+===========================================================================
+Analysis complete. All outputs saved to: performance_diagnostics_feature 
+===========================================================================
