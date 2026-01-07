@@ -192,7 +192,7 @@ def call_llm(prompt, ethnographic_excerpt, model_name, temperature):
     from ollama import Client  # import here to avoid requiring ollama if unused
     client = Client(
         host="https://ollama.com",
-        headers={'Authorization': 'dbc56a448a8a48d39c6982bf59d5c731.qhdWodXgEf_tLKbJAEwqlgkY'}
+        headers={'Authorization': '...'}
     )
 
     resp = client.chat(
